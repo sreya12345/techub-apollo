@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block maincontent %}
+    <div class="container-fluid" style="margin-top: 20px;">
+        <div class='col-12'>
+            <div class="row">
+                <div class='col-12 mb-3'>
+                    <h2 class="ui header">
+                        {{company.name}}
+                    </h2>
+                </div>
+                <div class='col-12 mb-3'>
+                    <div class="ui list">
+                        <div class="item">
+                        <div class="content">
+                            Ticker: {{company.ticker}}
+                        </div>
+                        </div>
+                        <div class="item">
+                            <div class="content">
+                            Country: {{company.country}}
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="content">
+                            Industry: {{company.industry}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class='col-4 mb-3'>
+                    <div class="ui card">
+                        <div class="content">
+
+                            <div class="ui hidden divider"></div>
+                            <div class="ui centered grid">
+                                <div class="ui statistic">
+                                    <div class="value">
+                                    {{ company.esg_score }}
+                                    </div>
+                                    <div class="label">
+                                    SP Global Score
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ui hidden divider"></div>
+
+                            <div class="ui small horizontal statistics">
+                                <div class="statistic">
+                                <div class="value">
+                                    {{ company.environmental_score }}
+                                </div>
+                                <div class="label">
+                                    Environmental Score
+                                </div>
+                                </div>
+                                <div class="statistic">
+                                <div class="value">
+                                    {{ company.social_score }}
+                                </div>
+                                <div class="label">
+                                    Social Score
+                                </div>
+                                </div>
+                                <div class="statistic">
+                                <div class="value">
+                                    {{ company.governance_score }}
+                                </div>
+                                <div class="label">
+                                    Governance Score
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class='col-4 mb-3'>
+                    <div class="ui card">
+                        <div class="content">
+                            <div class="ui orange right huge ribbon label">{{ company.comparison }}</div>
+                            <div class="ui hidden divider"></div>
+                            <div class="ui centered grid">
+                                <div class="ui statistic">
+                                    <div class="value">
+                                        {{ company.rating }}
+                                    </div>
+                                    <div class="label">
+                                    MSCI Score
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ui hidden divider"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

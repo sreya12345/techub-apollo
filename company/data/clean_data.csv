@@ -1,0 +1,505 @@
+0,MMM,3M Company,67,Industry: IDD Industrial Conglomerates,60,72,68
+1,ABT,Abbott Laboratories,86,Industry: MTC Health Care Equipment & Supplies,93,87,84
+2,ABBV,AbbVie Inc.,81,Industry: BTC Biotechnology,90,84,76
+3,ABMD,"Abiomed, Inc.",14,Industry: MTC Health Care Equipment & Supplies, 0, 7,21
+4,ACN,Accenture plc,54,Industry: TSV IT services,81,41,50
+5,ATVI,"Activision Blizzard, Inc.",12,"Industry: IMS Interactive Media, Services & Home Entertainment", 0, 2,22
+6,ADBE,Adobe Inc.,68,Industry: SOF Software,75,62,69
+7,ADVANC,Advanced Info Service Public Company Limited,87,Industry: TLS Telecommunication Services,87,88,86
+8,AAP,"Advance Auto Parts, Inc.",14,Industry: RTS Retailing,15,10,16
+9,AESGENER,AES Gener S.A.,80,Industry: ELC Electric Utilities,84,84,73
+10,AFL,Aflac Incorporated,48,Industry: INS Insurance,53,31,58
+11,A,"Agilent Technologies, Inc.",51,Industry: LIF Life Sciences Tools & Services,80,50,47
+12,AF,Air France-KLM SA,80,Industry: AIR Airlines,90,80,74
+13,AKAM,"Akamai Technologies, Inc.",53,Industry: TSV IT services,70,43,51
+14,ALK,"Alaska Air Group, Inc.",51,Industry: AIR Airlines,42,53,55
+15,ALB,Albemarle Corporation,51,Industry: CHM Chemicals,54,53,47
+16,ARE,"Alexandria Real Estate Equities, Inc.",11,Industry: REA Real Estate, 8, 4,24
+17,ALXN,"Alexion Pharmaceuticals, Inc.",48,Industry: BTC Biotechnology,18,38,61
+18,ALGN,"Align Technology, Inc.",14,Industry: MTC Health Care Equipment & Supplies, 6, 0,26
+19,ALLE,Allegion plc,15,Industry: BLD Building Products,16, 3,27
+20,LNT,Alliant Energy Corporation,20,Industry: ELC Electric Utilities,14,17,30
+21,ALL,The Allstate Corporation,53,Industry: INS Insurance,58,43,58
+22,GOOG.L,Alphabet Inc.,40,"Industry: IMS Interactive Media, Services & Home Entertainment",79,32,28
+23,GOOG.L,Alphabet Inc.,40,"Industry: IMS Interactive Media, Services & Home Entertainment",79,32,28
+24,MO,"Altria Group, Inc.",37,Industry: TOB Tobacco,53,19,43
+25,AMZN,"Amazon.com, Inc.",21,Industry: RTS Retailing,25,10,25
+26,AMC,Amcor plc,71,Industry: CTR Containers & Packaging,92,58,63
+27,AEE,Ameren Corporation,27,Industry: MUW Multi and Water Utilities,31,17,30
+28,AAL,American Airlines Group Inc.,53,Industry: AIR Airlines,48,52,57
+29,AAL,American Airlines Group Inc.,53,Industry: AIR Airlines,48,52,57
+30,AAL,American Airlines Group Inc.,53,Industry: AIR Airlines,48,52,57
+31,AAL,American Airlines Group Inc.,53,Industry: AIR Airlines,48,52,57
+32,AAL,American Airlines Group Inc.,53,Industry: AIR Airlines,48,52,57
+33,AAL,American Airlines Group Inc.,53,Industry: AIR Airlines,48,52,57
+34,AMP,"Ameriprise Financial, Inc.",30,Industry: FBN Diversified Financial Services and Capital Markets,30,19,37
+35,ABC,AmerisourceBergen Corporation,45,Industry: HEA Health Care Providers & Services,49,37,52
+36,AME,"AMETEK, Inc.",14,Industry: ELQ Electrical Components & Equipment, 4, 4,26
+37,AMGN,Amgen Inc.,59,Industry: BTC Biotechnology,65,57,60
+38,APH,Amphenol Corporation,27,"Industry: ITC Electronic Equipment, Instruments & Components",31,13,35
+39,ADI,"Analog Devices, Inc.",46,Industry: SEM Semiconductors & Semiconductor Equipment,63,41,35
+40,ANSS,"ANSYS, Inc.",40,Industry: SOF Software, 4,45,52
+41,ANTM,"Anthem, Inc.",67,Industry: HEA Health Care Providers & Services,67,71,63
+42,AON,Aon plc,32,Industry: INS Insurance,28,25,38
+43,AON,Aon plc,32,Industry: INS Insurance,28,25,38
+44,APA,APA Corporation,29,Industry: OGX Oil & Gas Upstream & Integrated,18,17,44
+45,AAPL,Apple Inc.,29,Industry: THQ Computers & Peripherals and Office Electronics,47, 7,30
+46,AMAT,"Applied Materials, Inc.",35,Industry: SEM Semiconductors & Semiconductor Equipment,42,27,34
+47,APTV,Aptiv PLC,57,Industry: ATX Auto Components,74,39,58
+48,ADM,Archer-Daniels-Midland Company,68,Industry: FOA Food Products,73,68,65
+49,ANET,"Arista Networks, Inc.",26,Industry: CMT Communications Equipment,39,11,25
+50,AJG,Arthur J. Gallagher & Co.,24,Industry: INS Insurance, 0,16,35
+51,AIZ,"Assurant, Inc.",24,Industry: INS Insurance, 4,13,35
+52,T,AT&T Inc.,75,Industry: TLS Telecommunication Services,90,75,70
+53,ATO,Atmos Energy Corporation,19,Industry: GAS Gas Utilities, 8,15,34
+54,ADSK,"Autodesk, Inc.",30,Industry: SOF Software,51,23,25
+55,ADP,"Automatic Data Processing, Inc.",25,Industry: TSV IT services,10,21,33
+56,AZO,"AutoZone, Inc.",13,Industry: RTS Retailing, 1, 8,21
+57,AVB,"AvalonBay Communities, Inc.",34,Industry: REA Real Estate,34,26,43
+58,AVY,Avery Dennison Corporation,15,Industry: CTR Containers & Packaging, 7, 6,31
+59,BKR,Baker Hughes Company,30,Industry: OIE Energy Equipment & Services,53,11,32
+60,BLL,Ball Corporation,70,Industry: CTR Containers & Packaging,87,64,60
+61,ABN,ABN AMRO Bank N.V.,83,Industry: BNK Banks,88,89,77
+62,ANTM,"Anthem, Inc.",67,Industry: HEA Health Care Providers & Services,67,71,63
+63,BAX,Baxter International Inc.,76,Industry: MTC Health Care Equipment & Supplies,92,71,77
+64,BDX,"Becton, Dickinson and Company",48,Industry: MTC Health Care Equipment & Supplies,54,53,43
+65,BRK.A,Berkshire Hathaway Inc.,8,Industry: FBN Diversified Financial Services and Capital Markets, 0, 0,15
+66,BBY,"Best Buy Co., Inc.",53,Industry: RTS Retailing,65,30,60
+67,BIO,"Bio-Rad Laboratories, Inc.",16,Industry: LIF Life Sciences Tools & Services, 6, 6,24
+68,BIIB,Biogen Inc.,85,Industry: BTC Biotechnology,94,90,80
+69,BLK,"BlackRock, Inc.",48,Industry: FBN Diversified Financial Services and Capital Markets,59,30,55
+70,BA,Boeing Company,42,Industry: ARO Aerospace & Defense,54,33,43
+71,BKNG,Booking Holdings Inc.,16,Industry: RTS Retailing, 8,13,22
+72,BWA,BorgWarner Inc.,38,Industry: ATX Auto Components,59,20,34
+73,BXP,"Boston Properties, Inc.",61,Industry: REA Real Estate,85,43,49
+74,BXP,"Boston Properties, Inc.",61,Industry: REA Real Estate,85,43,49
+75,BMY,Bristol-Myers Squibb Company,33,Industry: DRG Pharmaceuticals,64,22,37
+76,AVGO,Broadcom Inc.,13,Industry: SEM Semiconductors & Semiconductor Equipment, 4, 5,25
+77,BR,"Broadridge Financial Solutions, Inc.",21,Industry: TSV IT services,34, 5,25
+78,BF.B,Brown-Forman Corporation,16,Industry: BVG Beverages, 7,20,19
+79,2018,AAC Technologies Holdings Inc.,34,"Industry: ITC Electronic Equipment, Instruments & Components",41,34,29
+80,COG,Cabot Oil & Gas Corporation,18,Industry: OGX Oil & Gas Upstream & Integrated, 1, 3,41
+81,CDNS,"Cadence Design Systems, Inc.",21,Industry: SOF Software,15,14,27
+82,N/A,"Caesars Holdings, Inc",47,Industry: CNO Casinos & Gaming,di,di,di
+83,CPB,Campbell Soup Company,63,Industry: FOA Food Products,66,48,73
+84,CAPC,Capital & Counties Properties PLC,39,Industry: REA Real Estate,53,30,31
+85,CAH,"Cardinal Health, Inc.",50,Industry: HEA Health Care Providers & Services,48,47,54
+86,KMX,"CarMax, Inc.",19,Industry: RTS Retailing,12,15,24
+87,CCL,Carnival Corporation & plc,47,"Industry: TRT Hotels, Resorts & Cruise Lines",66,45,36
+88,CCL,Carnival Corporation & plc,47,"Industry: TRT Hotels, Resorts & Cruise Lines",66,45,36
+89,CTLT,"Catalent, Inc.",32,Industry: DRG Pharmaceuticals,56,18,38
+90,CAT,Caterpillar Inc.,78,Industry: IEQ Machinery and Electrical Equipment,81,80,75
+91,CBOE,"Cboe Global Markets, Inc.",31,Industry: FBN Diversified Financial Services and Capital Markets,14,30,37
+92,CBRE,"CBRE Group, Inc.",71,Industry: REA Real Estate,79,62,73
+93,CDW,CDW Corporation,11,"Industry: ITC Electronic Equipment, Instruments & Components", 3, 2,24
+94,CE,Celanese Corporation,24,Industry: CHM Chemicals,22,26,25
+95,CNC,Centene Corporation,42,Industry: HEA Health Care Providers & Services,11,36,55
+96,CNP,"CenterPoint Energy, Inc.",17,Industry: MUW Multi and Water Utilities, 9,15,29
+97,CERN,Cerner Corporation,16,Industry: MTC Health Care Equipment & Supplies, 7, 4,26
+98,CF,"CF Industries Holdings, Inc.",27,Industry: CHM Chemicals,24,23,34
+99,SCHW,The Charles Schwab Corporation,22,Industry: FBN Diversified Financial Services and Capital Markets, 0,20,29
+100,CHTR,"Charter Communications, Inc.",14,"Industry: PUB Media, Movies & Entertainment", 0,10,23
+101,CVX,Chevron Corporation,46,Industry: OGX Oil & Gas Upstream & Integrated,44,50,43
+102,CMG,"Chipotle Mexican Grill, Inc.",19,Industry: REX Restaurants & Leisure Facilities,19, 7,31
+103,CB,Chubb Limited,42,Industry: INS Insurance,54,24,50
+104,CHD,"Church & Dwight Co., Inc.",23,Industry: HOU Household Products,39,15,22
+105,CI,Cigna Corporation,79,Industry: HEA Health Care Providers & Services,81,80,78
+106,CINF,Cincinnati Financial Corporation,17,Industry: INS Insurance, 7, 7,25
+107,CTAS,Cintas Corporation,13,Industry: ICS Commercial Services & Supplies, 0, 6,27
+108,CSCO,"Cisco Systems, Inc.",79,Industry: CMT Communications Equipment,91,68,76
+109,C,Citigroup Inc.,64,Industry: BNK Banks,93,70,53
+110,CFG,"Citizens Financial Group, Inc.",23,Industry: BNK Banks, 0,19,31
+111,CTXS,"Citrix Systems, Inc.",17,Industry: SOF Software, 3, 3,29
+112,ANTM,"Anthem, Inc.",67,Industry: HEA Health Care Providers & Services,67,71,63
+113,CME,CME Group Inc.,31,Industry: FBN Diversified Financial Services and Capital Markets, 0,25,41
+114,CMS,CMS Energy Corporation,49,Industry: MUW Multi and Water Utilities,44,40,62
+115,2579,Coca-Cola Bottlers Japan Holdings Inc.,66,Industry: BVG Beverages,75,57,66
+116,CTSH,Cognizant Technology Solutions Corporation,31,Industry: TSV IT services,22,21,39
+117,CL,Colgate-Palmolive Company,81,Industry: HOU Household Products,93,83,76
+118,CMCS.A,Comcast Corporation,41,"Industry: PUB Media, Movies & Entertainment",23,43,47
+119,CMA,Comerica Incorporated,33,Industry: BNK Banks,30,25,39
+120,CAG,"Conagra Brands, Inc.",30,Industry: FOA Food Products,42,12,34
+121,COP,ConocoPhillips,69,Industry: OGX Oil & Gas Upstream & Integrated,79,62,68
+122,ED,"Consolidated Edison, Inc.",20,Industry: MUW Multi and Water Utilities,13,17,33
+123,STZ,"Constellation Brands, Inc.",17,Industry: BVG Beverages,21, 6,20
+124,ANTM,"Anthem, Inc.",67,Industry: HEA Health Care Providers & Services,67,71,63
+125,CPRT,"Copart, Inc.",11,Industry: ICS Commercial Services & Supplies, 2, 3,24
+126,GLW,Corning Incorporated,16,"Industry: ITC Electronic Equipment, Instruments & Components",19, 6,21
+127,CTVA,"Corteva, Inc.",39,Industry: CHM Chemicals,24,30,61
+128,COST,Costco Wholesale Corporation,16,Industry: FDR Food & Staples Retailing,15, 6,24
+129,CCI.REIT,Crown Castle International Corp. (REIT),19,Industry: REA Real Estate,14,14,32
+130,CSX,CSX Corporation,65,Industry: TRA Transportation and Transportation Infrastructure,84,50,65
+131,CMI,Cummins Inc.,76,Industry: IEQ Machinery and Electrical Equipment,90,62,76
+132,CVS,CVS Health Corporation,77,Industry: HEA Health Care Providers & Services,88,71,81
+133,8267,"Aeon Co., Ltd.",48,Industry: FDR Food & Staples Retailing,63,38,44
+134,DHR,Danaher Corporation,19,Industry: MTC Health Care Equipment & Supplies,23,12,23
+135,DRI,"Darden Restaurants, Inc.",14,Industry: REX Restaurants & Leisure Facilities, 8, 3,28
+136,DVA,DaVita Inc.,62,Industry: HEA Health Care Providers & Services,76,55,64
+137,DE,Deere & Company,24,Industry: IEQ Machinery and Electrical Equipment,29,10,30
+138,DAL,"Delta Air Lines, Inc.",57,Industry: AIR Airlines,52,43,71
+139,XRAY,DENTSPLY SIRONA Inc.,22,Industry: MTC Health Care Equipment & Supplies,17,14,28
+140,DVN,Devon Energy Corporation,45,Industry: OGX Oil & Gas Upstream & Integrated,43,22,63
+141,DXCM,"DexCom, Inc.",11,Industry: MTC Health Care Equipment & Supplies, 0, 5,17
+142,FANG,"Diamondback Energy, Inc.",20,Industry: OGX Oil & Gas Upstream & Integrated,14,10,32
+143,BTOW3,B2W - Companhia Digital,46,Industry: RTS Retailing,49,44,45
+144,DFS,Discover Financial Services,28,Industry: FBN Diversified Financial Services and Capital Markets, 0,19,39
+145,DISC.A,"Discovery, Inc.",13,"Industry: PUB Media, Movies & Entertainment", 1, 4,25
+146,DISC.A,"Discovery, Inc.",13,"Industry: PUB Media, Movies & Entertainment", 1, 4,25
+147,DISH,DISH Network Corporation,7,"Industry: PUB Media, Movies & Entertainment", 2, 3,11
+148,DG,Dollar General Corporation,14,Industry: RTS Retailing, 1, 5,25
+149,DG,Dollar General Corporation,14,Industry: RTS Retailing, 1, 5,25
+150,D,"Dominion Energy, Inc.",54,Industry: MUW Multi and Water Utilities,63,45,50
+151,DPZ,"Domino's Pizza, Inc.",10,Industry: REX Restaurants & Leisure Facilities, 0, 4,20
+152,DOV,Dover Corporation,16,Industry: IEQ Machinery and Electrical Equipment,17, 4,24
+153,CHDN,Churchill Downs Incorporated,22,Industry: CNO Casinos & Gaming, 0,19,34
+154,DTE,DTE Energy Company,29,Industry: MUW Multi and Water Utilities,32,21,30
+155,DUK,Duke Energy Corporation,77,Industry: ELC Electric Utilities,76,72,83
+156,DUK,Duke Energy Corporation,77,Industry: ELC Electric Utilities,76,72,83
+157,DD,"DuPont de Nemours, Inc.",13,Industry: CHM Chemicals, 4, 7,26
+158,DXC,DXC Technology Company,56,Industry: TSV IT services,68,50,55
+159,EMN,Eastman Chemical Company,33,Industry: CHM Chemicals,43,16,39
+160,ETN,Eaton Corporation plc,32,Industry: ELQ Electrical Components & Equipment,42,13,37
+161,EBAY,eBay Inc.,67,Industry: RTS Retailing,81,41,74
+162,ECL,Ecolab Inc.,77,Industry: CHM Chemicals,86,69,75
+163,ED,"Consolidated Edison, Inc.",20,Industry: MUW Multi and Water Utilities,13,17,33
+164,EW,Edwards Lifesciences Corporation,73,Industry: MTC Health Care Equipment & Supplies,85,68,74
+165,2324,"Compal Electronics, Inc.",43,Industry: THQ Computers & Peripherals and Office Electronics,70,36,28
+166,EMR,Emerson Electric Co.,25,Industry: ELQ Electrical Components & Equipment,25,13,32
+167,EMR,Emerson Electric Co.,25,Industry: ELQ Electrical Components & Equipment,25,13,32
+168,ETR,Entergy Corporation,82,Industry: ELC Electric Utilities,78,82,86
+169,EOG,"EOG Resources, Inc.",22,Industry: OGX Oil & Gas Upstream & Integrated,11,14,36
+170,EFX,Equifax Inc.,13,Industry: PRO Professional Services, 1, 5,26
+171,EQIX.REIT,"Equinix, Inc. (REIT)",45,Industry: REA Real Estate,54,32,47
+172,AEV,"Aboitiz Equity Ventures, Inc.",35,Industry: IDD Industrial Conglomerates,34,31,38
+173,ESS,"Essex Property Trust, Inc.",22,Industry: REA Real Estate,19,16,34
+174,EL,The Estée Lauder Companies Inc.,52,Industry: COS Personal Products,71,37,52
+175,ETSY,"Etsy, Inc.",53,Industry: RTS Retailing,88,40,45
+176,EVRG,"Evergy, Inc.",31,Industry: ELC Electric Utilities,er,er,er
+177,ES,Eversource Energy,32,Industry: ELC Electric Utilities,41,17,36
+178,RE,"Everest Re Group, Ltd.",29,Industry: INS Insurance,27,17,37
+179,EXC,Exelon Corporation,76,Industry: ELC Electric Utilities,82,66,77
+180,EXPE,"Expedia Group, Inc.",12,Industry: RTS Retailing,ro,ro,ro
+181,EXPD,"Expeditors International of Washington, Inc.",25,Industry: TRA Transportation and Transportation Infrastructure,34,15,28
+182,EXR,Extra Space Storage Inc.,35,Industry: REA Real Estate,32,30,48
+183,XOM,Exxon Mobil Corporation,36,Industry: OGX Oil & Gas Upstream & Integrated,29,35,40
+184,FFIV,"F5 Networks, Inc.",11,Industry: CMT Communications Equipment, 0, 2,23
+185,FB,"Facebook, Inc.",14,"Industry: IMS Interactive Media, Services & Home Entertainment",28, 4,14
+186,FAST,Fastenal Company,15,Industry: TCD Trading Companies & Distributors,16, 9,21
+187,FRT,Federal Realty Investment Trust,36,Industry: REA Real Estate,44,21,42
+188,FDX,FedEx Corporation,32,Industry: TRA Transportation and Transportation Infrastructure,48,18,36
+189,FIS,"Fidelity National Information Services, Inc.",27,Industry: TSV IT services,16,25,33
+190,FITB,Fifth Third Bancorp,49,Industry: BNK Banks,76,29,54
+191,FE,FirstEnergy Corp.,41,Industry: ELC Electric Utilities,45,29,49
+192,FAB,First Abu Dhabi Bank P.J.S.C.,49,Industry: BNK Banks,60,45,49
+193,FISV,"Fiserv, Inc.",22,Industry: TSV IT services,20,10,30
+194,FLT,"FLEETCOR Technologies, Inc.",11,Industry: TSV IT services, 0, 3,20
+195,FLIR,"FLIR Systems, Inc.",11,"Industry: ITC Electronic Equipment, Instruments & Components", 3, 1,25
+196,FMC,FMC Corporation,43,Industry: CHM Chemicals,48,31,48
+197,F,Ford Motor Company,27,Industry: AUT Automobiles,34,19,29
+198,FTNT,"Fortinet, Inc.",14,Industry: SOF Software, 2, 2,25
+199,FTV,Fortive Corporation,16,Industry: IEQ Machinery and Electrical Equipment,11, 2,28
+200,FBHS,"Fortune Brands Home & Security, Inc.",17,Industry: BLD Building Products, 9,15,27
+201,FOXA,Fox Corporation,9,"Industry: PUB Media, Movies & Entertainment", 0, 2,19
+202,FOXA,Fox Corporation,9,"Industry: PUB Media, Movies & Entertainment", 0, 2,19
+203,BEN,"Franklin Resources, Inc.",21,Industry: FBN Diversified Financial Services and Capital Markets, 2, 8,34
+204,FCX,Freeport-McMoRan Inc.,58,Industry: MNX Metals & Mining,58,59,58
+205,C6L,Singapore Airlines Limited,46,Industry: AIR Airlines,30,51,51
+206,GRMN,Garmin Ltd.,13,Industry: LEG Leisure Equipment & Products and Consumer Electronics,11, 5,19
+207,IT,"Gartner, Inc.",22,Industry: TSV IT services,10,19,29
+208,IT,"Gartner, Inc.",22,Industry: TSV IT services,10,19,29
+209,G,Assicurazioni Generali S.p.A.,81,Industry: INS Insurance,97,80,78
+210,G,Assicurazioni Generali S.p.A.,81,Industry: INS Insurance,97,80,78
+211,G,Assicurazioni Generali S.p.A.,81,Industry: INS Insurance,97,80,78
+212,G,Assicurazioni Generali S.p.A.,81,Industry: INS Insurance,97,80,78
+213,GPC,Genuine Parts Company,14,Industry: RTS Retailing,16, 0,21
+214,GPC,Genuine Parts Company,14,Industry: RTS Retailing,16, 0,21
+215,GPC,Genuine Parts Company,14,Industry: RTS Retailing,16, 0,21
+216,BERY,"Berry Global Group, Inc.",49,Industry: CTR Containers & Packaging,65,31,51
+217,GS,"The Goldman Sachs Group, Inc.",38,Industry: FBN Diversified Financial Services and Capital Markets,76,23,38
+218,GWW,"W.W. Grainger, Inc.",52,Industry: TCD Trading Companies & Distributors,64,45,54
+219,HAL,Halliburton Company,53,Industry: OIE Energy Equipment & Services,45,41,70
+220,HBI,Hanesbrands Inc.,22,"Industry: TEX Textiles, Apparel & Luxury Goods",38, 8,26
+221,HIG,"The Hartford Financial Services Group, Inc.",63,Industry: INS Insurance,79,53,66
+222,HAS,"Hasbro, Inc.",32,Industry: LEG Leisure Equipment & Products and Consumer Electronics,38,34,27
+223,FPH,Fisher & Paykel Healthcare Corporation Limited,49,Industry: MTC Health Care Equipment & Supplies,77,37,52
+224,PEAK,"Healthpeak Properties, Inc.",67,Industry: REA Real Estate,70,63,69
+225,HSIC,"Henry Schein, Inc.",21,Industry: HEA Health Care Providers & Services,15,12,30
+226,ANTM,"Anthem, Inc.",67,Industry: HEA Health Care Providers & Services,67,71,63
+227,HES,Hess Corporation,69,Industry: OGX Oil & Gas Upstream & Integrated,76,65,67
+228,HPE,Hewlett Packard Enterprise Company,91,Industry: THQ Computers & Peripherals and Office Electronics,98,90,86
+229,HLT,Hilton Worldwide Holdings Inc.,82,"Industry: TRT Hotels, Resorts & Cruise Lines",91,77,81
+230,HFC,HollyFrontier Corporation,26,Industry: OGR Oil & Gas Refining & Marketing,14,25,40
+231,HOLX,"Hologic, Inc.",47,Industry: MTC Health Care Equipment & Supplies,20,46,53
+232,FBHS,"Fortune Brands Home & Security, Inc.",17,Industry: BLD Building Products, 9,15,27
+233,HON,Honeywell International Inc.,22,Industry: IDD Industrial Conglomerates,30, 2,30
+234,HRL,Hormel Foods Corporation,27,Industry: FOA Food Products,30,19,31
+235,HST,"Host Hotels & Resorts, Inc.",67,Industry: REA Real Estate,68,58,76
+236,HWM,Howmet Aerospace Inc.,31,Industry: ARO Aerospace & Defense,38,26,31
+237,BHP,BHP Group,43,Industry: MNX Metals & Mining,49,35,45
+238,HUM,Humana Inc.,67,Industry: HEA Health Care Providers & Services,89,62,65
+239,HBAN,Huntington Bancshares Incorporated,28,Industry: BNK Banks,14,19,36
+240,HBAN,Huntington Bancshares Incorporated,28,Industry: BNK Banks,14,19,36
+241,IEX,IDEX Corporation,14,Industry: IEQ Machinery and Electrical Equipment, 1, 9,26
+242,IDXX,"IDEXX Laboratories, Inc.",18,Industry: MTC Health Care Equipment & Supplies, 3, 8,28
+243,INFO,IHS Markit Ltd.,30,Industry: PRO Professional Services,35,13,44
+244,ITW,Illinois Tool Works Inc.,37,Industry: IEQ Machinery and Electrical Equipment,46,20,43
+245,ILMN,"Illumina, Inc.",58,Industry: LIF Life Sciences Tools & Services,29,53,67
+246,INCY,Incyte Corporation,21,Industry: BTC Biotechnology, 4,15,29
+247,IR,Ingersoll Rand Inc.,61,Industry: IEQ Machinery and Electrical Equipment,59,62,61
+248,INTC,Intel Corporation,71,Industry: SEM Semiconductors & Semiconductor Equipment,80,66,67
+249,ICE,"Intercontinental Exchange, Inc.",29,Industry: FBN Diversified Financial Services and Capital Markets, 0,15,44
+250,AIG,"American International Group, Inc.",18,Industry: INS Insurance, 0, 7,30
+251,AIG,"American International Group, Inc.",18,Industry: INS Insurance, 0, 7,30
+252,IPG,"The Interpublic Group of Companies, Inc.",42,"Industry: PUB Media, Movies & Entertainment",43,36,47
+253,AIG,"American International Group, Inc.",18,Industry: INS Insurance, 0, 7,30
+254,INTU,Intuit Inc.,21,Industry: SOF Software,13,13,29
+255,ISRG,"Intuitive Surgical, Inc.",14,Industry: MTC Health Care Equipment & Supplies, 8, 5,22
+256,IVZ,Invesco Ltd.,27,Industry: FBN Diversified Financial Services and Capital Markets, 7,15,39
+257,IPGP,IPG Photonics Corporation,11,"Industry: ITC Electronic Equipment, Instruments & Components", 3, 2,24
+258,IQV,IQVIA Holdings Inc.,15,Industry: LIF Life Sciences Tools & Services, 9, 2,24
+259,600019,"Baoshan Iron & Steel Co., Ltd.",31,Industry: STL Steel,27,30,34
+260,JKHY,"Jack Henry & Associates, Inc.",13,Industry: TSV IT services, 0, 2,24
+261,J,Jacobs Engineering Group Inc.,54,Industry: CON Construction & Engineering,49,57,54
+262,AJG,Arthur J. Gallagher & Co.,24,Industry: INS Insurance, 0,16,35
+263,AJG,Arthur J. Gallagher & Co.,24,Industry: INS Insurance, 0,16,35
+264,JNJ,Johnson & Johnson,60,Industry: DRG Pharmaceuticals,85,67,50
+265,JNJ,Johnson & Johnson,60,Industry: DRG Pharmaceuticals,85,67,50
+266,JPM,JPMorgan Chase & Co.,37,Industry: BNK Banks,46,34,36
+267,JNPR,"Juniper Networks, Inc.",28,Industry: CMT Communications Equipment,35,11,32
+268,KSU,Kansas City Southern,38,Industry: TRA Transportation and Transportation Infrastructure,52,27,40
+269,K,Kellogg Company,74,Industry: FOA Food Products,76,66,79
+270,KEY,KeyCorp,34,Industry: BNK Banks,59,26,32
+271,KEYS,"Keysight Technologies, Inc.",47,"Industry: ITC Electronic Equipment, Instruments & Components",51,49,42
+272,KMB,Kimberly-Clark Corp.,27,Industry: HOU Household Products,44,22,23
+273,KIM,Kimco Realty Corporation,68,Industry: REA Real Estate,74,61,67
+274,KMI,"Kinder Morgan, Inc.",45,Industry: PIP Oil & Gas Storage & Transportation,51,37,50
+275,AIA,Auckland International Airport Limited,58,Industry: TRA Transportation and Transportation Infrastructure,68,55,55
+276,KHC,The Kraft Heinz Company,62,Industry: FOA Food Products,58,64,64
+277,KR,The Kroger Co.,52,Industry: FDR Food & Staples Retailing,59,41,55
+278,III,3i Group plc,47,Industry: FBN Diversified Financial Services and Capital Markets,47,33,54
+279,LHX,"L3Harris Technologies, Inc.",12,Industry: ARO Aerospace & Defense, 3, 5,24
+280,LH,Laboratory Corporation of America Holdings,18,Industry: HEA Health Care Providers & Services, 8, 8,28
+281,GBLB,Groupe Bruxelles Lambert SA,38,Industry: FBN Diversified Financial Services and Capital Markets, 4,45,43
+282,GBLB,Groupe Bruxelles Lambert SA,38,Industry: FBN Diversified Financial Services and Capital Markets, 4,45,43
+283,ALK,"Alaska Air Group, Inc.",51,Industry: AIR Airlines,42,53,55
+284,LEG,"Leggett & Platt, Incorporated",10,Industry: DHP Household Durables, 3, 3,17
+285,LDOS,"Leidos Holdings, Inc.",25,Industry: TSV IT services,43, 9,26
+286,LEN,Lennar Corporation,8,Industry: HOM Homebuilding, 0, 4,23
+287,LLY,Eli Lilly and Company,29,Industry: DRG Pharmaceuticals,76,13,35
+288,LNC,Lincoln National Corporation,54,Industry: INS Insurance,73,41,57
+289,LIN,Linde plc,79,Industry: CHM Chemicals,92,71,76
+290,CL,Colgate-Palmolive Company,81,Industry: HOU Household Products,93,83,76
+291,LKQ,LKQ Corporation,11,Industry: RTS Retailing, 2, 4,19
+292,LMT,Lockheed Martin Corporation,74,Industry: ARO Aerospace & Defense,74,65,80
+293,L,Loews Corporation,17,Industry: INS Insurance,15,14,19
+294,LOW,"Lowe's Companies, Inc.",45,Industry: RTS Retailing,52,33,48
+295,LUMN,"Lumen Technologies, Inc.",24,Industry: TLS Telecommunication Services,43, 8,28
+296,LYB,LyondellBasell Industries N.V.,28,Industry: CHM Chemicals,38,12,33
+297,MTB,M&T Bank Corporation,18,Industry: BNK Banks, 0, 6,30
+298,MRO,Marathon Oil Corporation,25,Industry: OGX Oil & Gas Upstream & Integrated,10,20,37
+299,MRO,Marathon Oil Corporation,25,Industry: OGX Oil & Gas Upstream & Integrated,10,20,37
+300,MKTX,MarketAxess Holdings Inc.,20,Industry: FBN Diversified Financial Services and Capital Markets, 0, 8,32
+301,MAR,"Marriott International, Inc.",48,"Industry: TRT Hotels, Resorts & Cruise Lines",59,39,51
+302,MMC,"Marsh & McLennan Companies, Inc.",19,Industry: INS Insurance, 7,11,26
+303,LMT,Lockheed Martin Corporation,74,Industry: ARO Aerospace & Defense,74,65,80
+304,MAS,Masco Corporation,23,Industry: BLD Building Products,18,18,32
+305,MA,Mastercard Incorporated,62,Industry: TSV IT services,79,65,54
+306,MKC,"McCormick & Company, Incorporated",56,Industry: FOA Food Products,64,46,58
+307,MXIM,"Maxim Integrated Products, Inc.",37,Industry: SEM Semiconductors & Semiconductor Equipment,51,22,35
+308,MCD,McDonald's Corporation,21,Industry: REX Restaurants & Leisure Facilities,36, 5,29
+309,MCK,McKesson Corporation,30,Industry: HEA Health Care Providers & Services,44,16,39
+310,MDT,Medtronic plc,70,Industry: MTC Health Care Equipment & Supplies,65,76,67
+311,MRK,"Merck & Co., Inc.",39,Industry: DRG Pharmaceuticals,74,29,41
+312,MET,"MetLife, Inc.",64,Industry: INS Insurance,78,51,69
+313,MTD,Mettler-Toledo International Inc.,34,Industry: LIF Life Sciences Tools & Services,48,22,40
+314,MGM,MGM Resorts International,47,Industry: CNO Casinos & Gaming,48,40,53
+315,MCHP,Microchip Technology Incorporated,27,Industry: SEM Semiconductors & Semiconductor Equipment,41,16,22
+316,MU,"Micron Technology, Inc.",56,Industry: SEM Semiconductors & Semiconductor Equipment,58,56,55
+317,MSFT,Microsoft Corporation,57,Industry: SOF Software,63,47,59
+318,MAA,"Mid-America Apartment Communities, Inc.",7,Industry: REA Real Estate, 2, 0,25
+319,MHK,"Mohawk Industries, Inc.",23,Industry: DHP Household Durables,30,23,21
+320,TAP,Molson Coors Beverage Company,33,Industry: BVG Beverages,47,39,23
+321,MDLZ,"Mondelez International, Inc.",79,Industry: FOA Food Products,80,81,78
+322,MPWR,"Monolithic Power Systems, Inc.",8,Industry: SEM Semiconductors & Semiconductor Equipment, 1, 2,17
+323,MNST,Monster Beverage Corporation,10,Industry: BVG Beverages, 2, 5,17
+324,MCO,Moody's Corporation,52,Industry: FBN Diversified Financial Services and Capital Markets,87,36,53
+325,JPM,JPMorgan Chase & Co.,37,Industry: BNK Banks,46,34,36
+326,ANTM,"Anthem, Inc.",67,Industry: HEA Health Care Providers & Services,67,71,63
+327,MSI,"Motorola Solutions, Inc.",35,Industry: CMT Communications Equipment,48,13,39
+328,MSCI,MSCI Inc.,21,Industry: FBN Diversified Financial Services and Capital Markets,13,12,27
+329,NDAQ,"Nasdaq, Inc.",44,Industry: FBN Diversified Financial Services and Capital Markets,36,32,52
+330,NTAP,"NetApp, Inc.",29,Industry: THQ Computers & Peripherals and Office Electronics,36, 7,37
+331,NFLX,"Netflix, Inc.",9,"Industry: PUB Media, Movies & Entertainment", 1, 6,16
+332,NWL,Newell Brands Inc.,15,Industry: DHP Household Durables,20, 7,18
+333,NEM,Newmont Corporation,85,Industry: MNX Metals & Mining,86,85,82
+334,NWSA,News Corporation,20,"Industry: PUB Media, Movies & Entertainment",42, 5,25
+335,NWSA,News Corporation,20,"Industry: PUB Media, Movies & Entertainment",42, 5,25
+336,NEE,"NextEra Energy, Inc.",36,Industry: ELC Electric Utilities,36,24,46
+337,NLSN,Nielsen Holdings plc,67,Industry: PRO Professional Services,73,66,66
+338,NKE,"NIKE, Inc.",56,"Industry: TEX Textiles, Apparel & Luxury Goods",70,43,59
+339,NI,NiSource Inc.,67,Industry: MUW Multi and Water Utilities,72,64,63
+340,NSC,Norfolk Southern Corporation,33,Industry: TRA Transportation and Transportation Infrastructure,51,19,34
+341,NST,Northern Star Resources Limited,41,Industry: MNX Metals & Mining,35,38,51
+342,NOC,Northrop Grumman Corporation,64,Industry: ARO Aerospace & Defense,63,62,67
+343,NLOK,NortonLifeLock Inc.,55,Industry: SOF Software,49,58,55
+344,NCLH,Norwegian Cruise Line Holdings Ltd.,22,"Industry: TRT Hotels, Resorts & Cruise Lines",18, 9,39
+345,CVE,Cenovus Energy Inc.,56,Industry: OGX Oil & Gas Upstream & Integrated,54,62,53
+346,NRG,"NRG Energy, Inc.",32,Industry: ELC Electric Utilities,40,14,38
+347,NUE,Nucor Corporation,11,Industry: STL Steel, 4, 4,26
+348,NVDA,NVIDIA Corporation,74,Industry: SEM Semiconductors & Semiconductor Equipment,82,71,69
+349,NVR,"NVR, Inc.",12,Industry: HOM Homebuilding, 5, 1,33
+350,NVR,"NVR, Inc.",12,Industry: HOM Homebuilding, 5, 1,33
+351,ORLY,"O'Reilly Automotive, Inc.",10,Industry: RTS Retailing, 0, 4,18
+352,OXY,Occidental Petroleum Corporation,31,Industry: OGX Oil & Gas Upstream & Integrated,22,24,42
+353,2018,AAC Technologies Holdings Inc.,34,"Industry: ITC Electronic Equipment, Instruments & Components",41,34,29
+354,OMC,Omnicom Group Inc.,20,"Industry: PUB Media, Movies & Entertainment",27, 8,29
+355,OKE,"ONEOK, Inc.",58,Industry: PIP Oil & Gas Storage & Transportation,46,65,57
+356,ORCL,Oracle Corporation,26,Industry: SOF Software,33,17,28
+357,ORCL,Oracle Corporation,26,Industry: SOF Software,33,17,28
+358,PCAR,PACCAR Inc,30,Industry: IEQ Machinery and Electrical Equipment,44,23,25
+359,PKG,Packaging Corp of America,25,Industry: CTR Containers & Packaging,22,16,36
+360,PH,Parker-Hannifin Corporation,30,Industry: IEQ Machinery and Electrical Equipment,33,26,32
+361,PAYX,"Paychex, Inc.",20,Industry: TSV IT services, 2,22,27
+362,PAYC,"Paycom Software, Inc.",10,Industry: SOF Software, 0, 2,18
+363,PYPL,"PayPal Holdings, Inc.",41,Industry: TSV IT services,47,23,48
+364,PNN,Pennon Group Plc,52,Industry: MUW Multi and Water Utilities,64,40,47
+365,PNR,Pentair plc,23,Industry: IEQ Machinery and Electrical Equipment,21,14,29
+366,PBCT,"People's United Financial, Inc.",21,Industry: BNK Banks, 0,16,29
+367,PEP,"PepsiCo, Inc.",32,Industry: BVG Beverages,38,26,32
+368,PKI,"PerkinElmer, Inc.",14,Industry: LIF Life Sciences Tools & Services, 6, 2,23
+369,PRGO,Perrigo Company plc,41,Industry: DRG Pharmaceuticals,41,40,41
+370,PFE,Pfizer Inc.,31,Industry: DRG Pharmaceuticals,53,17,38
+371,PHIA,Koninklijke Philips N.V.,81,Industry: MTC Health Care Equipment & Supplies,98,77,81
+372,COP,ConocoPhillips,69,Industry: OGX Oil & Gas Upstream & Integrated,79,62,68
+373,PNW,Pinnacle West Capital Corporation,41,Industry: ELC Electric Utilities,53,23,41
+374,PXD,Pioneer Natural Resources Company,47,Industry: OGX Oil & Gas Upstream & Integrated,38,36,61
+375,PNC,"The PNC Financial Services Group, Inc.",36,Industry: BNK Banks,29,27,43
+376,LIVEPOL C.1,"El Puerto de Liverpool, S.A.B. de C.V.",26,Industry: RTS Retailing, 5,27,35
+377,PPG,"PPG Industries, Incorporated",40,Industry: CHM Chemicals,41,32,46
+378,AAPL,Apple Inc.,29,Industry: THQ Computers & Peripherals and Office Electronics,47, 7,30
+379,PFG,"Principal Financial Group, Inc.",28,Industry: INS Insurance,22,15,38
+380,PG,The Procter & Gamble Company,60,Industry: HOU Household Products,74,48,61
+381,PGR,The Progressive Corporation,18,Industry: INS Insurance, 2, 4,30
+382,FIBRAPL 14,FIBRA Prologis,66,Industry: REA Real Estate,70,72,52
+383,PRU,"Prudential Financial, Inc.",30,Industry: INS Insurance,50,14,35
+384,ADVANC,Advanced Info Service Public Company Limited,87,Industry: TLS Telecommunication Services,87,88,86
+385,ADVANC,Advanced Info Service Public Company Limited,87,Industry: TLS Telecommunication Services,87,88,86
+386,PHM,"PulteGroup, Inc.",39,Industry: HOM Homebuilding,34,32,53
+387,PVH,PVH Corp.,49,"Industry: TEX Textiles, Apparel & Luxury Goods",56,41,53
+388,QRVO,"Qorvo, Inc.",12,Industry: SEM Semiconductors & Semiconductor Equipment, 5, 9,19
+389,PWR,"Quanta Services, Inc.",12,Industry: CON Construction & Engineering, 1, 5,28
+390,QCOM,QUALCOMM Incorporated,52,Industry: SEM Semiconductors & Semiconductor Equipment,53,52,51
+391,DGX,Quest Diagnostics Incorporated,59,Industry: HEA Health Care Providers & Services,55,51,68
+392,RL,Ralph Lauren Corporation,17,"Industry: TEX Textiles, Apparel & Luxury Goods",15,12,23
+393,RJF,"Raymond James Financial, Inc.",18,Industry: FBN Diversified Financial Services and Capital Markets, 0, 6,30
+394,RTX,Raytheon Technologies Corporation,22,Industry: ARO Aerospace & Defense,31, 8,28
+395,DLR,"Digital Realty Trust, Inc.",53,Industry: REA Real Estate,60,38,61
+396,REG,Regency Centers Corporation,38,Industry: REA Real Estate,30,36,52
+397,REGN,"Regeneron Pharmaceuticals, Inc.",62,Industry: BTC Biotechnology,71,57,64
+398,RF,Regions Financial Corporation,51,Industry: BNK Banks,30,46,58
+399,FRC,First Republic Bank,23,Industry: BNK Banks, 0,21,30
+400,RMD,ResMed Inc.,25,Industry: MTC Health Care Equipment & Supplies,38,16,29
+401,RHI,Robert Half International Inc.,35,Industry: PRO Professional Services,11,22,58
+402,ROK,"Rockwell Automation, Inc.",48,Industry: ELQ Electrical Components & Equipment,54,36,53
+403,ROL,"Rollins, Inc.",8,Industry: ICS Commercial Services & Supplies, 0, 0,20
+404,3279,Activia Properties Inc.,23,Industry: REA Real Estate,23,18,29
+405,K,Kinross Gold Corporation,65,Industry: MNX Metals & Mining,53,69,71
+406,PSK,PrairieSky Royalty Ltd.,63,Industry: OGX Oil & Gas Upstream & Integrated,59,64,64
+407,SPGI,S&P Global Inc.,73,Industry: FBN Diversified Financial Services and Capital Markets,91,70,71
+408,CRM,"salesforce.com, inc.",48,Industry: SOF Software,75,39,42
+409,SBAC.REIT,SBA Communications Corporation (REIT),12,Industry: REA Real Estate, 9, 3,27
+410,SLB,Schlumberger Limited,62,Industry: OIE Energy Equipment & Services,58,72,55
+411,STX,Seagate Technology plc,39,Industry: THQ Computers & Peripherals and Office Electronics,60,28,32
+412,SEE,Sealed Air Corporation,17,Industry: CTR Containers & Packaging, 3, 7,39
+413,SRE,Sempra Energy,78,Industry: MUW Multi and Water Utilities,79,77,79
+414,NOW,"ServiceNow, Inc.",31,Industry: SOF Software,12,34,38
+415,SHW,The Sherwin-Williams Company,18,Industry: CHM Chemicals,15, 7,32
+416,SPG,"Simon Property Group, Inc.",26,Industry: REA Real Estate,31,16,33
+417,SWKS,"Skyworks Solutions, Inc.",20,Industry: SEM Semiconductors & Semiconductor Equipment,20,15,22
+418,SNA,Snap-on Incorporated,13,Industry: IEQ Machinery and Electrical Equipment, 7, 4,22
+419,KSU,Kansas City Southern,38,Industry: TRA Transportation and Transportation Infrastructure,52,27,40
+420,LUV,Southwest Airlines Co.,39,Industry: AIR Airlines,55,29,37
+421,MS,Morgan Stanley,44,Industry: FBN Diversified Financial Services and Capital Markets,67,29,47
+422,SBUX,Starbucks Corporation,47,Industry: REX Restaurants & Leisure Facilities,44,34,59
+423,ARE,"Alexandria Real Estate Equities, Inc.",11,Industry: REA Real Estate, 8, 4,24
+424,STE,STERIS plc,19,Industry: MTC Health Care Equipment & Supplies, 8, 7,29
+425,SYK,Stryker Corporation,24,Industry: MTC Health Care Equipment & Supplies, 6,24,28
+426,SIVB,SVB Financial Group,21,Industry: BNK Banks, 0,12,31
+427,SYF,Synchrony Financial,36,Industry: FBN Diversified Financial Services and Capital Markets, 8,29,47
+428,SNPS,"Synopsys, Inc.",21,Industry: SOF Software,18,10,28
+429,SYY,Sysco Corporation,25,Industry: FDR Food & Staples Retailing,25,11,35
+430,TMUS,"T-Mobile US, Inc.",10,Industry: TLS Telecommunication Services, 2, 1,20
+431,PSM,ProSiebenSat.1 Media SE,39,"Industry: PUB Media, Movies & Entertainment",66,38,30
+432,TTWO,"Take-Two Interactive Software, Inc.",14,"Industry: IMS Interactive Media, Services & Home Entertainment", 0, 2,25
+433,TPR,"Tapestry, Inc.",21,"Industry: TEX Textiles, Apparel & Luxury Goods",34, 7,27
+434,TGT,Target Corporation,46,Industry: RTS Retailing,60,44,41
+435,2018,AAC Technologies Holdings Inc.,34,"Industry: ITC Electronic Equipment, Instruments & Components",41,34,29
+436,TDY,Teledyne Technologies Incorporated,10,Industry: ARO Aerospace & Defense, 0, 0,25
+437,TFX,Teleflex Incorporated,18,Industry: MTC Health Care Equipment & Supplies, 5,10,27
+438,TER,"Teradyne, Inc.",27,Industry: SEM Semiconductors & Semiconductor Equipment,22,11,40
+439,TSLA,"Tesla, Incorporated",15,Industry: AUT Automobiles,21, 2,21
+440,TXN,Texas Instruments Incorporated,53,Industry: SEM Semiconductors & Semiconductor Equipment,50,41,62
+441,TXT,Textron Inc.,21,Industry: ARO Aerospace & Defense,21,14,26
+442,TMO,Thermo Fisher Scientific Inc.,22,Industry: LIF Life Sciences Tools & Services,24,14,27
+443,TJX,"The TJX Companies, Inc.",27,Industry: RTS Retailing,43,14,27
+444,TSCO,Tractor Supply Company,14,Industry: RTS Retailing, 1, 2,26
+445,TT,Trane Technologies plc,75,Industry: BLD Building Products,78,70,77
+446,TDG,TransDigm Group Incorporated,11,Industry: ARO Aerospace & Defense, 0, 6,22
+447,ANTM,"Anthem, Inc.",67,Industry: HEA Health Care Providers & Services,67,71,63
+448,TRMB,Trimble Inc.,30,"Industry: ITC Electronic Equipment, Instruments & Components",47,13,30
+449,TFC,Truist Financial Corporation,25,Industry: BNK Banks, 0,22,33
+450,TWTR,"Twitter, Inc.",11,"Industry: IMS Interactive Media, Services & Home Entertainment", 0, 3,20
+451,TYL,"Tyler Technologies, Inc.",34,Industry: SOF Software,10,31,45
+452,TSN,"Tyson Foods, Inc.",33,Industry: FOA Food Products,22,40,36
+453,UDR,"UDR, Inc.",16,Industry: REA Real Estate, 7, 8,39
+454,TCS,Tata Consultancy Services Limited,73,Industry: TSV IT services,93,74,65
+455,USB,U.S. Bancorp,33,Industry: BNK Banks,57,16,37
+456,UAA,"Under Armour, Inc.",11,"Industry: TEX Textiles, Apparel & Luxury Goods", 1, 4,21
+457,UAA,"Under Armour, Inc.",11,"Industry: TEX Textiles, Apparel & Luxury Goods", 1, 4,21
+458,TU,Thai Union Group Public Company Limited,87,Industry: FOA Food Products,90,85,85
+459,PBCT,"People's United Financial, Inc.",21,Industry: BNK Banks, 0,16,29
+460,UNH,UnitedHealth Group Incorporated,70,Industry: HEA Health Care Providers & Services,85,65,71
+461,PBCT,"People's United Financial, Inc.",21,Industry: BNK Banks, 0,16,29
+462,PBCT,"People's United Financial, Inc.",21,Industry: BNK Banks, 0,16,29
+463,UHS,"Universal Health Services, Inc.",10,Industry: HEA Health Care Providers & Services, 0, 7,16
+464,UNM,Unum Group,43,Industry: INS Insurance,37,34,51
+465,VLO,Valero Energy Corporation,30,Industry: OGR Oil & Gas Refining & Marketing,18,22,47
+466,VAR,"Varian Medical Systems, Inc.",22,Industry: MTC Health Care Equipment & Supplies,35,15,25
+467,VTR,"Ventas, Inc.",78,Industry: REA Real Estate,78,73,85
+468,VRSN,"VeriSign, Inc.",15,Industry: TSV IT services, 0, 2,27
+469,VRSK,"Verisk Analytics, Inc.",53,Industry: PRO Professional Services,39,48,63
+470,VZ,Verizon Communications Inc.,33,Industry: TLS Telecommunication Services,56,21,31
+471,VRTX,Vertex Pharmaceuticals Incorporated,23,Industry: BTC Biotechnology,11,10,36
+472,VRTX,Vertex Pharmaceuticals Incorporated,23,Industry: BTC Biotechnology,11,10,36
+473,VIAC,ViacomCBS Inc.,11,"Industry: PUB Media, Movies & Entertainment", 2, 3,21
+474,VTRS,Viatris Inc.,27,Industry: DRG Pharmaceuticals,26,17,35
+475,TLEVISA CPO,"Grupo Televisa, S.A.B.",47,"Industry: PUB Media, Movies & Entertainment",61,39,47
+476,VNO,Vornado Realty Trust,41,Industry: REA Real Estate,57,21,42
+477,VMC,Vulcan Materials Company,17,Industry: COM Construction Materials,12,11,29
+478,WRB,W. R. Berkley Corporation,15,Industry: INS Insurance, 1, 4,25
+479,WAB,Westinghouse Air Brake Technologies Corporation,12,Industry: IEQ Machinery and Electrical Equipment, 4, 4,22
+480,WMT,Walmart Inc.,39,Industry: FDR Food & Staples Retailing,52,25,39
+481,WBA,"Walgreens Boots Alliance, Inc.",55,Industry: FDR Food & Staples Retailing,50,54,59
+482,ANTM,"Anthem, Inc.",67,Industry: HEA Health Care Providers & Services,67,71,63
+483,CWY,Cleanaway Waste Management Limited,24,Industry: ICS Commercial Services & Supplies,44,11,23
+484,WAT,Waters Corporation,35,Industry: LIF Life Sciences Tools & Services,33,35,36
+485,WEC,"WEC Energy Group, Inc.",53,Industry: MUW Multi and Water Utilities,57,40,57
+486,WFC,Wells Fargo & Company,37,Industry: BNK Banks,84,27,32
+487,WELL,Welltower Inc.,68,Industry: REA Real Estate,77,61,65
+488,WN,George Weston Limited,22,Industry: FDR Food & Staples Retailing,22,13,31
+489,WU,The Western Union Company,21,Industry: TSV IT services,10,16,28
+490,WU,The Western Union Company,21,Industry: TSV IT services,10,16,28
+491,WRK,WestRock Company,72,Industry: CTR Containers & Packaging,84,60,71
+492,WY,Weyerhaeuser Company,65,Industry: REA Real Estate,67,63,64
+493,WHR,Whirlpool Corporation,63,Industry: DHP Household Durables,70,63,59
+494,SHW,The Sherwin-Williams Company,18,Industry: CHM Chemicals,15, 7,32
+495,WLTW,Willis Towers Watson Public Limited Company,16,Industry: INS Insurance, 9, 3,26
+496,WYNN,"Wynn Resorts, Limited",16,Industry: CNO Casinos & Gaming,27, 6,21
+497,XEL,Xcel Energy Inc.,35,Industry: ELC Electric Utilities,41,23,38
+498,XLNX,"Xilinx, Inc.",23,Industry: SEM Semiconductors & Semiconductor Equipment,25,16,25
+499,XYL,Xylem Inc.,36,Industry: IEQ Machinery and Electrical Equipment,45,27,35
+500,YUM,"Yum! Brands, Inc.",61,Industry: REX Restaurants & Leisure Facilities,67,58,61
+501,ZBRA,Zebra Technologies Corporation,12,"Industry: ITC Electronic Equipment, Instruments & Components", 3, 4,25
+502,ZBH,"Zimmer Biomet Holdings, Inc.",33,Industry: MTC Health Care Equipment & Supplies,36,28,35
+503,ZION,"Zions Bancorporation, National Association",22,Industry: BNK Banks, 1,11,32
+504,ZTS,Zoetis Inc.,18,Industry: DRG Pharmaceuticals, 3, 9,28

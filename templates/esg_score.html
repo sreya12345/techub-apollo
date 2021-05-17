@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% load static %}
+{% load semanticui %}
+
+{% block maincontent %}
+    <div class="container-fluid" style="margin-top: 30px;">
+        <div class='ui placeholder segment'>
+            <div class="ui four column stackable center aligned grid">
+                <div class="column"></div>
+                <div class="column">
+                    <form class="ui form" method="post">
+                        {% csrf_token %}
+                        <div class="fluid field">
+                            {% render_field form.environmental_score name='' value='environmental_score' placeholder='Enter Environmental Score' %}
+                        </div>
+                        <div class="fluid field">
+                            {% render_field form.social_score name='' value='social_score' placeholder='Enter Social Score' %}
+                        </div>
+                        <div class="fluid field">
+                            {% render_field form.governance_score name='' value='governance_score' placeholder='Enter Governance Score' %}
+                        </div>
+                        <button class="ui button" type="submit">
+                            Calculate
+                        </button>
+                    </form>
+                </div>
+                <div class="column">
+                    <div class="ui huge statistic">
+                        <div class="value">
+                        {{ score }}
+                        </div>
+                        <div class="label">
+                        Estimated ESG Score
+                        </div>
+                    </div>
+                </div>
+                <div class="column"></div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block maincontent %}
+    <div class="container-fluid" style="margin: 20px;">
+        <div class='col-12'>
+            <div class="row">
+                <div class='col-12 mb-3'>
+                    <h1 class="ui header">
+                        S&P Data Analytics
+                    </h1>
+                </div>
+           </div>
+           <div class="ui divider"></div>
+           <div class="row">
+                <div class='col-12 mb-3'>
+                    <h2 class="ui header">
+                        Finding 1: ESG scores and % change in annualized stock returns have a negative association
+                    </h2>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 20px;">
+                <img class="ui fluid image" src="{% static 'sp_findings-1.png' %}">
+           </div>
+           <div class="ui divider"></div>
+            <div class="row">
+                <div class='col-12 mb-3'>
+                    <h2 class="ui header">
+                        Finding 2: Industry explains about 18% of the variation in ESG scores for companies
+                    </h2>
+                </div>
+            </div>
+            <div class="row">
+                <img class="ui massive image" src="{% static 'sp_findings-2.png' %}">
+           </div>
+           <div class="ui divider"></div>
+            <div class="row">
+                <div class='col-12 mb-3'>
+                    <h2 class="ui header">
+                        Finding 3: Industry and Credit Ratings explain about 32% of the variation in ESG scores for companies
+                    </h2>
+                </div>
+            </div>
+            <div class="row" style="margin-right: 10px;">
+                <div class="ui fluid raised card" >
+                    <div class="content">
+                        Linear Regression analysis conducted using Credit Ratings and Industry as x-variables and ESG scores as y variables. Results: R^2 = 0.317.
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <img class="ui massive image" src="{% static 'sp_findings-3.png' %}">
+            </div>
+            <div class="ui divider"></div>
+        </div>
+    </div>
+{% endblock %}

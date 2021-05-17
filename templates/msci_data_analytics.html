@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block maincontent %}
+    <div class="container-fluid" style="margin-top: 20px;">
+        <div class='col-12'>
+            <div class="row">
+                <div class='col-12 mb-3'>
+                    <h1 class="ui header">
+                        MSCI Data Analytics
+                    </h1>
+                </div>
+           </div>
+           <div class="ui divider"></div>
+           
+           <div class="row">
+                <div class='col-12 mb-3'>
+                    <h2 class="ui header">
+                        Finding 1: Utilities and Software have the highest number of 'A'/'AA'/'AAA' ESG Rating
+                    </h2>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 20px;">
+                <img class="ui fluid image" src="{% static 'aaa-piechart.png' %}">
+            </div>
+            <div class="ui divider"></div>
+            <div class="row">
+                <div class='col-12 mb-3'>
+                    <h2 class="ui header">
+                        Finding 2: Semiconductors, Software, Real Estate and Healthcare have the highest number of 'B'/'BB'/'BBB' ESG Rating
+                    </h2>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 20px;">
+                <img class="ui fluid image" src="{% static 'bbb-piechart.png' %}">
+            </div>
+        </div>
+    </div>
+{% endblock %}

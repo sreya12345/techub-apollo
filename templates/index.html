@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block maincontent %}
+    <div class="container-fluid" style="margin-top: 20px;">        
+        <div class="ui centered cards">
+            <div class="card">
+                <div class="image">
+                    <img src="{% static 'sreya.jpg' %}">
+                </div>
+                <div class="content">
+                    <div class="header">Sreya Sreedhar</div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="image">
+                    <img src="{% static 'jonpaul.jpg' %}">
+                </div>
+                <div class="content">
+                    <div class="header">JonPaul Lambert</div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="image">
+                    <img src="{% static 'soorya.jpg' %}">
+                </div>
+                <div class="content">
+                    <div class="header">Soorya Srinivas</div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="image">
+                    <img src="{% static 'soorya.jpg' %}">
+                </div>
+                <div class="content">
+                    <div class="header">Coral Reyes</div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

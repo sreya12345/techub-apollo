@@ -1,0 +1,506 @@
+,index,Name,Ticker,Activity,Comparison,Industry,Country,Rating
+0,0,ZOETIS INC.,(ZTS),"Zoetis was upgraded in March, 2021.",Leader, Pharmaceutical, United States of America,AA
+1,0,3M COMPANY,(MMM),"3M's rating remains unchanged since August, 2017.",Leader, Industrial Conglomerate, United States of America,AAA
+2,0,ABBOTT LABORATORIES,(ABT),"Abbott was downgraded in December, 2020.",Average, Health Care Equipment & Supplie, United States of America,BB
+3,0,ABBVIE INC.,(ABBV),"AbbVie's rating remains unchanged since October, 2019.",Average, Biotechnolog, United States of America,A
+4,0,"ABIOMED, INC.",(ABMD),"Abiomed's rating remains unchanged since September, 2019.",Average, Health Care Equipment & Supplie, United States of America,A
+5,0,ACCENTURE PUBLIC LIMITED COMPANY,(ACN),"Accenture was downgraded in December, 2020.",Average, Software & Service, Ireland,A
+6,0,"ACTIVISION BLIZZARD, INC.",(ATVI),"Activision Blizzard's rating remains unchanged since June, 2019.",Average, Media & Entertainme, United States of America,BBB
+7,0,ADOBE INC.,(ADBE),"Adobe's rating remains unchanged since June, 2018.",Leader, Software & Service, United States of America,AA
+8,0,"ADVANCED MICRO DEVICES, INC.",(AMD),"AMD's rating remains unchanged since January, 2018.",Average, Semiconductors & Semiconductor Equipme, United States of America,BBB
+9,0,"ADVANCE AUTO PARTS, INC.",(AAP),"Advance's rating remains unchanged since May, 2019.",Average, Retail - Consumer Discretiona, United States of America,BBB
+10,0,THE AES CORPORATION,(AES),"AES Corporation was downgraded in December, 2020.",Average, Utilitie, United States of America,A
+11,0,AFLAC INCORPORATED,(AFL),"Aflac was upgraded in May, 2020.",Average, Life & Health Insurance, United States of America,BBB
+12,0,"AGILENT TECHNOLOGIES, INC.",(A),"Agilent was downgraded in December, 2020.",Leader, Health Care Equipment & Supplie, United States of America,AA
+13,0,"AIR PRODUCTS AND CHEMICALS, INC.",(APD),"Air Products's rating remains unchanged since April, 2018.",Average, Specialty Chemical, United States of America,BBB
+14,0,"AKAMAI TECHNOLOGIES, INC.",(AKAM),"Akamai's rating remains unchanged since June, 2017.",Average, Software & Service, United States of America,BBB
+15,0,AIR CANADA,(AC),"Air Canada's rating remains unchanged since September, 2017.",Average, Airline, Canada,BB
+16,0,ALBEMARLE CORPORATION,(ALB),"Albemarle was upgraded in October, 2020.",Average, Specialty Chemical, United States of America,BBB
+17,0,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",(ARE),"Alexandria was downgraded in November, 2020.",Average, Real Estate Management & Service, United States of America,BBB
+18,0,"ALEXION PHARMACEUTICALS, INC.",(ALXN),"Alexion was upgraded in July, 2020.",Average, Biotechnolog, United States of America,BB
+19,0,"ALIGN TECHNOLOGY, INC.",(ALGN),"Align Technology's rating remains unchanged since March, 2020.",Average, Health Care Equipment & Supplie, United States of America,BBB
+20,0,ALLEGION PUBLIC LIMITED COMPANY,(ALLE),"Allegion's rating remains unchanged since January, 2018.",Leader, Building Produc, Ireland,AA
+21,0,ALLIANT ENERGY CORPORATION,(LNT),"Alliant Energy was upgraded in September, 2020.",Leader, Utilitie, United States of America,AA
+22,0,THE ALLSTATE CORPORATION,(ALL),"Allstate Corp's rating remains unchanged since May, 2017.",Average, Property & Casualty Insurance, United States of America,BBB
+23,0,ALPHABET INC.,(GOOGL),"Alphabet was downgraded in November, 2020.",Average, Interactive Media & Service, United States of America,BBB
+24,0,ALPHABET INC.,(GOOGL),"Alphabet was downgraded in November, 2020.",Average, Interactive Media & Service, United States of America,BBB
+25,0,"Altria Group, Inc.",(MO),"Altria Group's rating remains unchanged since November, 2017.",Average, Tobacco, United States of America,BB
+26,0,"AMAZON.COM, INC.",(AMZN),"Amazon's rating remains unchanged since April, 2020.",Average, Retail - Consumer Discretiona, United States of America,BBB
+27,0,AMCOR PLC,(AMCR),"Amcor's rating remains unchanged since July, 2018.",Leader, Containers & Packaging, United Kingdom,AA
+28,0,AMEREN CORPORATION,(AEE),"Ameren Corp was upgraded in December, 2020.",Average, Utilitie, United States of America,A
+29,0,"AMERICAN FINANCIAL GROUP, INC.",(AFG),"American Financial Group's rating remains unchanged since May, 2017.",Average, Multi-Line Insurance & Brokerage, United States of America,BB
+30,0,"AMERICAN ELECTRIC POWER COMPANY, INC.",(AEP),"AEP's rating remains unchanged since November, 2017.",Average, Utilitie, United States of America,A
+31,0,AMERICAN EXPRESS COMPANY,(AXP),"American Express's rating remains unchanged since January, 2018.",Leader, Consumer Finance, United States of America,AA
+32,0,"AMERICAN INTERNATIONAL GROUP, INC.",(AIG),"AIG was upgraded in February, 2021.",Average, Multi-Line Insurance & Brokerage, United States of America,BBB
+33,0,AMERICAN TOWER CORPORATION,(AMT),"American Tower was upgraded in January, 2021.",Leader, Telecommunication Service, United States of America,AA
+34,0,"AMERICAN WATER WORKS COMPANY, INC.",(AWK),"AWW's rating remains unchanged since November, 2018.",Average, Utilitie, United States of America,BBB
+35,0,"AMERIPRISE FINANCIAL, INC.",(AMP),"Ameriprise was upgraded in March, 2021.",Average, Asset Management & Custody Bank, United States of America,A
+36,0,AMERISOURCEBERGEN CORPORATION,(ABC),"AmerisourceBergen's rating remains unchanged since June, 2018.",Average, Health Care Providers & Service, United States of America,BBB
+37,0,"AMETEK, INC.",(AME),"Ametek's rating remains unchanged since April, 2017.",Laggard, Electrical Equipme, United States of America,B
+38,0,AMGEN INC.,(AMGN),"Amgen's rating remains unchanged since June, 2019.",Leader, Biotechnolog, United States of America,AA
+39,0,AMPHENOL CORPORATION,(APH),"Amphenol's rating remains unchanged since April, 2017.",Average," Electronic Equipment, Instruments & Compone", United States of America,BBB
+40,0,"ANALOG DEVICES, INC.",(ADI),"Analog Devices (ADI)'s rating remains unchanged since January, 2019.",Average, Semiconductors & Semiconductor Equipme, United States of America,BBB
+41,0,"ANSYS, INC.",(ANSS),"Ansys's rating remains unchanged since July, 2019.",Average, Software & Service, United States of America,A
+42,0,"ANTHEM, INC.",(ANTM),"Anthem was upgraded in September, 2020.",Average, Health Care Providers & Service, United States of America,BBB
+43,0,Aon plc,(AON),"Aon's rating remains unchanged since June, 2017.",Average, Multi-Line Insurance & Brokerage, Ireland,BB
+44,0,SMITH & NEPHEW PLC,(SN.),"Smith & Nephew's rating remains unchanged since June, 2019.",Average, Health Care Equipment & Supplie, United Kingdom,A
+45,0,APA Group,(APA),"APA Group's rating remains unchanged since November, 2017.",Leader, Utilitie, Australia,AAA
+46,0,APPLE INC.,(AAPL),"Apple was downgraded in December, 2020.",Average," Technology Hardware, Storage & Peripheral", United States of America,BBB
+47,0,"APPLIED MATERIALS, INC.",(AMAT),"Applied Materials's rating remains unchanged since January, 2018.",Leader, Semiconductors & Semiconductor Equipme, United States of America,AA
+48,0,APTIV PLC,(APTV),"APTIV was upgraded in June, 2020.",Leader, Auto Compone, Ireland,AA
+49,0,ARCHER-DANIELS-MIDLAND COMPANY,(ADM),"ADM was upgraded in December, 2020.",Leader, Food Produc, United States of America,AA
+50,0,"ARISTA NETWORKS, INC.",(ANET),"Arista Networks's rating remains unchanged since August, 2018.",Average," Technology Hardware, Storage & Peripheral", United States of America,BBB
+51,0,ARTHUR J. GALLAGHER & CO.,(AJG),"AJG's rating remains unchanged since July, 2017.",Average, Multi-Line Insurance & Brokerage, United States of America,BBB
+52,0,"ASSURANT, INC.",(AIZ),"Assurant was upgraded in July, 2020.",Average, Multi-Line Insurance & Brokerage, United States of America,BBB
+53,0,AT&T INC.,(T),"AT&T's rating remains unchanged since April, 2019.",Average, Telecommunication Service, United States of America,BB
+54,0,ATMOS ENERGY CORPORATION,(ATO),"Atmos Energy was upgraded in March, 2021.",Average, Utilitie, United States of America,A
+55,0,"AUTODESK, INC.",(ADSK),"Autodesk's rating remains unchanged since June, 2017.",Leader, Software & Service, United States of America,AA
+56,0,"AUTOMATIC DATA PROCESSING, INC.",(ADP),"ADP was upgraded in October, 2020.",Leader, Software & Service, United States of America,AAA
+57,0,"AUTOZONE, INC.",(AZO),"AutoZone was upgraded in March, 2021.",Average, Retail - Consumer Discretiona, United States of America,BB
+58,0,"AVALONBAY COMMUNITIES, INC.",(AVB),"AvalonBay was downgraded in December, 2020.",Average, Real Estate Management & Service, United States of America,BB
+59,0,AVERY DENNISON CORPORATION,(AVY),"Avery Dennison was downgraded in February, 2020.",Average, Containers & Packaging, United States of America,BB
+60,0,BAKER HUGHES COMPANY,(BKR),"Baker Hughes was downgraded in November, 2020.",Leader, Energy Equipment & Service, United States of America,AA
+61,0,BALL CORPORATION,(BLL),"Ball's rating remains unchanged since July, 2018.",Average, Containers & Packaging, United States of America,A
+62,0,BANK OF AMERICA CORPORATION,(BAC),"Bank of America was upgraded in February, 2021.",Average, Bank, United States of America,BBB
+63,0,The Bank of New York Mellon Corporation,(BK),"BNY's rating remains unchanged since May, 2020.",Leader, Asset Management & Custody Bank, United States of America,AA
+64,0,BAXTER INTERNATIONAL INC.,(BAX),"Baxter was upgraded in December, 2020.",Average, Health Care Equipment & Supplie, United States of America,BBB
+65,0,"BECTON, DICKINSON AND COMPANY",(BDX),"BD was downgraded in April, 2021.",Average, Health Care Equipment & Supplie, United States of America,BBB
+66,0,BERKSHIRE HATHAWAY INC.,(BRK.A),"Berkshire Hathaway's rating remains unchanged since February, 2017.",Average, Diversified Financial, United States of America,BB
+67,0,"BEST BUY CO., INC.",(BBY),"Best Buy's rating remains unchanged since March, 2018.",Leader, Retail - Consumer Discretiona, United States of America,AAA
+68,0,"BIO-RAD LABORATORIES, INC.",(BIO),"Bio-Rad was downgraded in July, 2020.",Laggard, Health Care Equipment & Supplie, United States of America,B
+69,0,BIOGEN INC.,(BIIB),"Biogen was upgraded in March, 2021.",Leader, Biotechnolog, United States of America,AA
+70,0,"BLACKROCK, INC.",(BLK),"Blackrock's rating remains unchanged since June, 2018.",Leader, Asset Management & Custody Bank, United States of America,AA
+71,0,THE BOEING COMPANY,(BA),"Boeing's rating remains unchanged since March, 2019.",Average, Aerospace & Defense, United States of America,BB
+72,0,BOOKING HOLDINGS INC.,(BKNG),"Booking's rating remains unchanged since May, 2017.",Average, Hotels & Travel, United States of America,BBB
+73,0,BORGWARNER INC.,(BWA),"BorgWarner's rating remains unchanged since August, 2019.",Average, Auto Compone, United States of America,A
+74,0,"BOSTON PROPERTIES, INC.",(BXP),"Boston Properties's rating remains unchanged since July, 2017.",Average, Real Estate Management & Service, United States of America,A
+75,0,BOSTON SCIENTIFIC CORPORATION,(BSX),"Boston Scientific was upgraded in April, 2020.",Average, Health Care Equipment & Supplie, United States of America,BB
+76,0,BRISTOL-MYERS SQUIBB COMPANY,(BMY),"BMS's rating remains unchanged since July, 2017.",Average, Pharmaceutical, United States of America,A
+77,0,BROADCOM INC.,(AVGO),"Broadcom was upgraded in April, 2021.",Average, Semiconductors & Semiconductor Equipme, United States of America,BB
+78,0,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",(BR),"Broadridge's rating remains unchanged since May, 2017.",Average, Software & Service, United States of America,BBB
+79,0,BROWN-FORMAN CORPORATION,(BF.B),"Brown-Forman was upgraded in December, 2020.",Leader, Beverage, United States of America,AA
+80,0,"C.H. ROBINSON WORLDWIDE, INC.",(CHRW),"C.H. Robinson was upgraded in June, 2020.",Leader, Air Freight & Logistic, United States of America,AA
+81,0,CABOT OIL & GAS CORPORATION,(COG),"Cabot's rating remains unchanged since May, 2017.",Laggard, Oil & Gas Exploration & Productio, United States of America,B
+82,0,"CADENCE DESIGN SYSTEMS, INC.",(CDNS),"Cadence's rating remains unchanged since May, 2017.",Leader, Software & Service, United States of America,AA
+83,0,FLUTTER ENTERTAINMENT PLC,(FLTR),"Flutter Entertainment's rating remains unchanged since February, 2018.",Leader, Casinos & Gaming, Ireland,AA
+84,0,CAMPBELL SOUP COMPANY,(CPB),"Campbell Soup's rating remains unchanged since December, 2017.",Leader, Food Produc, United States of America,AA
+85,0,CAPITAL ONE FINANCIAL CORPORATION,(COF),"Capital One Financial's rating remains unchanged since August, 2019.",Laggard, Consumer Finance, United States of America,B
+86,0,"CARDINAL HEALTH, INC.",(CAH),"Cardinal Health was downgraded in December, 2020.",Average, Health Care Providers & Service, United States of America,A
+87,0,"CarMax, Inc.",(KMX),"CarMax was upgraded in July, 2020.",Average, Retail - Consumer Discretiona, United States of America,BBB
+88,0,Carnival Corporation,(CCL),"Carnival's rating remains unchanged since April, 2017.",Laggard, Hotels & Travel, United States of America,CCC
+89,0,CARRIER GLOBAL CORPORATION,(CARR),"Carrier Global's rating was initiated in April, 2020.",Average, Building Produc, United States of America,A
+90,0,"CATALENT, INC.",(CTLT),"Catalent was upgraded in December, 2020.",Average, Pharmaceutical, United States of America,A
+91,0,CATERPILLAR INC.,(CAT),"Caterpillar's rating remains unchanged since June, 2019.",Average, Construction & Farm Machinery & Heavy Truck, United States of America,A
+92,0,"Cboe Global Markets, Inc.",(CBOE),"CBOE Holdings's rating remains unchanged since March, 2019.",Average, Diversified Financial, United States of America,BB
+93,0,"CBRE GROUP, INC.",(CBRE),"CBRE was upgraded in December, 2020.",Leader, Real Estate Management & Service, United States of America,AAA
+94,0,CDW CORPORATION,(CDW),"CDW was upgraded in July, 2020.",Average," Electronic Equipment, Instruments & Compone", United States of America,BB
+95,0,CELANESE CORPORATION,(CE),"Celanese's rating remains unchanged since March, 2019.",Average, Specialty Chemical, United States of America,BBB
+96,0,CENTENE CORPORATION,(CNC),"Centene's rating remains unchanged since June, 2018.",Average, Health Care Providers & Service, United States of America,BBB
+97,0,"CENTERPOINT ENERGY, INC.",(CNP),"Centerpoint Energy was upgraded in June, 2020.",Average, Utilitie, United States of America,BBB
+98,0,CERNER CORPORATION,(CERN),"Cerner was upgraded in June, 2020.",Leader, Health Care Equipment & Supplie, United States of America,AA
+99,0,"CF INDUSTRIES HOLDINGS, INC.",(CF),"CF Industries was upgraded in April, 2020.",Laggard, Specialty Chemical, United States of America,B
+100,0,THE CHARLES SCHWAB CORPORATION,(SCHW),"Charles Schwab was upgraded in June, 2020.",Average, Investment Banking & Brokerage, United States of America,BBB
+101,0,"CHARTER COMMUNICATIONS, INC.",(CHTR),"Charter Communications's rating remains unchanged since October, 2017.",Laggard, Media & Entertainme, United States of America,B
+102,0,CHEVRON CORPORATION,(CVX),"Chevron's rating remains unchanged since October, 2019.",Average, Integrated Oil & Ga, United States of America,BBB
+103,0,"CHIPOTLE MEXICAN GRILL, INC.",(CMG),"Chipotle's rating remains unchanged since October, 2019.",Average, Restaura, United States of America,BBB
+104,0,Chubb Limited,(AEX),"Chubb's rating remains unchanged since May, 2017.",Average, Property & Casualty Insurance, Switzerland,BBB
+105,0,"CHURCH & DWIGHT CO., INC.",(CHD),"Church & Dwight's rating remains unchanged since September, 2018.",Average, Household & Personal Produc, United States of America,BBB
+106,0,CIGNA CORPORATION,(CI),"Cigna was upgraded in June, 2020.",Leader, Health Care Providers & Service, United States of America,AA
+107,0,CINCINNATI FINANCIAL CORPORATION,(CINF),"Cincinnati Financial was upgraded in May, 2020.",Average, Property & Casualty Insurance, United States of America,BB
+108,0,CINTAS CORPORATION,(CTAS),"Cintas's rating remains unchanged since July, 2019.",Average, Commercial Services & Supplie, United States of America,BBB
+109,0,"CISCO SYSTEMS, INC.",(CSCO),"Cisco was upgraded in April, 2020.",Leader," Technology Hardware, Storage & Peripheral", United States of America,AA
+110,0,CITIGROUP INC.,(C),"Citi was upgraded in December, 2020.",Average, Bank, United States of America,A
+111,0,"CITIZENS FINANCIAL GROUP, INC.",(CFG),"Citizens's rating remains unchanged since July, 2017.",Average, Bank, United States of America,BBB
+112,0,"CITRIX SYSTEMS, INC.",(CTXS),"Citrix's rating remains unchanged since May, 2017.",Average, Software & Service, United States of America,A
+113,0,THE CLOROX COMPANY,(CLX),"Clorox's rating remains unchanged since September, 2017.",Leader, Household & Personal Produc, United States of America,AA
+114,0,CME GROUP INC.,(CME),"CME Group was upgraded in April, 2021.",Average, Diversified Financial, United States of America,A
+115,0,CMS ENERGY CORPORATION,(CMS),"CMS Energy Corporation (CMS Energy)'s rating remains unchanged since November, 2017.",Leader, Utilitie, United States of America,AA
+116,0,THE COCA-COLA COMPANY,(KO),"The Coca-Cola Company's rating remains unchanged since November, 2019.",Leader, Beverage, United States of America,AA
+117,0,COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION,(CTSH),"Cognizant was upgraded in September, 2020.",Average, Software & Service, United States of America,A
+118,0,Colgate-Palmolive (India) Ltd,(COLPAL),"Colgate-Palmolive (India) was upgraded in August, 2020.",Average, Household & Personal Produc, India,A
+119,0,COMCAST CORPORATION,(CMCSA),"Comcast's rating remains unchanged since October, 2019.",Average, Media & Entertainme, United States of America,BB
+120,0,BCE Inc.,(BCE),"BCE was upgraded in October, 2020.",Average, Telecommunication Service, Canada,BBB
+121,0,"CONAGRA BRANDS, INC.",(CAG),"Conagra was upgraded in December, 2020.",Average, Food Produc, United States of America,A
+122,0,CONOCOPHILLIPS,(COP),"ConocoPhillips was downgraded in December, 2020.",Average, Oil & Gas Exploration & Productio, United States of America,A
+123,0,"CONSOLIDATED EDISON, INC.",(ED),"ConEd's rating remains unchanged since August, 2018.",Leader, Utilitie, United States of America,AA
+124,0,"CONSTELLATION BRANDS, INC.",(STZ),"Constellation Brands's rating remains unchanged since June, 2017.",Average, Beverage, United States of America,BB
+125,0,"THE COOPER COMPANIES, INC.",(COO),"Cooper's rating remains unchanged since January, 2018.",Average, Health Care Equipment & Supplie, United States of America,BBB
+126,0,"COPART, INC.",(CPRT),"Copart's rating remains unchanged since March, 2018.",Average, Commercial Services & Supplie, United States of America,A
+127,0,CORNING INCORPORATED,(GLW),"Corning was downgraded in March, 2021.",Average," Electronic Equipment, Instruments & Compone", United States of America,BBB
+128,0,"CORTEVA, INC.",(CTVA),"Corteva's rating remains unchanged since June, 2020.",Average, Specialty Chemical, United States of America,BBB
+129,0,COSTCO WHOLESALE CORPORATION,(COST),"Costco was upgraded in March, 2021.",Average, Retail - Food & Staple, United States of America,BBB
+130,0,CROWN CASTLE INTERNATIONAL CORP.,(CCI),"Crown Castle was upgraded in March, 2021.",Average, Telecommunication Service, United States of America,A
+131,0,CSX Corporation,(CSX),"CSX's rating remains unchanged since April, 2018.",Average, Road & Rail Transpo, United States of America,A
+132,0,CUMMINS INC.,(CMI),"Cummins's rating remains unchanged since September, 2020.",Leader, Construction & Farm Machinery & Heavy Truck, United States of America,AA
+133,0,CVS HEALTH CORPORATION,(CVS),"CVS Health's rating remains unchanged since June, 2018.",Average, Health Care Providers & Service, United States of America,BBB
+134,0,"D.R. HORTON, INC.",(DHI),"D.R. Horton was upgraded in March, 2021.",Average, Real Estate Development & Diversified Activitie, United States of America,BBB
+135,0,DANAHER CORPORATION,(DHR),"Danaher's rating remains unchanged since April, 2019.",Average, Health Care Equipment & Supplie, United States of America,BB
+136,0,"DARDEN RESTAURANTS, INC.",(DRI),"Darden's rating remains unchanged since June, 2017.",Average, Restaura, United States of America,BBB
+137,0,DAVITA INC.,(DVA),"DaVita's rating remains unchanged since April, 2020.",Average, Health Care Providers & Service, United States of America,A
+138,0,DEERE & COMPANY,(DE),"Deere's rating remains unchanged since May, 2018.",Average, Construction & Farm Machinery & Heavy Truck, United States of America,A
+139,0,"DELTA AIR LINES, INC.",(DAL),"Delta's rating remains unchanged since November, 2017.",Average, Airline, United States of America,A
+140,0,DENTSPLY SIRONA INC.,(XRAY),"Dentsply Sirona was downgraded in June, 2020.",Average, Health Care Equipment & Supplie, United States of America,BBB
+141,0,DEVON ENERGY CORPORATION,(DVN),"Devon's rating remains unchanged since May, 2017.",Average, Oil & Gas Exploration & Productio, United States of America,BBB
+142,0,"DEXCOM, INC.",(DXCM),"Dexcom was upgraded in May, 2020.",Average, Health Care Equipment & Supplie, United States of America,A
+143,0,Eversource Energy,(ES),"Eversource Energy's rating remains unchanged since December, 2017.",Leader, Utilitie, United States of America,AA
+144,0,"DIGITAL REALTY TRUST, INC.",(DLR),"Digital Realty's rating remains unchanged since September, 2019.",Average, Software & Service, United States of America,BB
+145,0,DISCOVER FINANCIAL SERVICES,(DFS),"Discover's rating remains unchanged since January, 2018.",Average, Consumer Finance, United States of America,BB
+146,0,"DISCOVERY, INC.",(DISCA),"Discovery's rating remains unchanged since May, 2017.",Average, Media & Entertainme, United States of America,BBB
+147,0,"DISCOVERY, INC.",(DISCA),"Discovery's rating remains unchanged since May, 2017.",Average, Media & Entertainme, United States of America,BBB
+148,0,DISH NETWORK CORPORATION,(DISH),"Dish's rating remains unchanged since April, 2017.",Laggard, Media & Entertainme, United States of America,CCC
+149,0,DOLLAR GENERAL CORPORATION,(DG),"Dollar General's rating remains unchanged since May, 2017.",Laggard, Retail - Consumer Discretiona, United States of America,B
+150,0,"DOLLAR TREE, INC.",(DLTR),"Dollar Tree was upgraded in June, 2020.",Average, Retail - Consumer Discretiona, United States of America,BB
+151,0,"Dominion Energy, Inc.",(D),"Dominion's rating remains unchanged since May, 2019.",Average, Utilitie, United States of America,A
+152,0,"DOMINO'S PIZZA, INC.",(DPZ),"Domino's Pizza's rating remains unchanged since June, 2019.",Average, Restaura, United States of America,BBB
+153,0,DOVER CORPORATION,(DOV),"Dover's rating remains unchanged since January, 2019.",Average, Industrial Machine, United States of America,BBB
+154,0,DOW INC.,(DOW),"Dow's rating remains unchanged since April, 2020.",Average, Commodity Chemical, United States of America,BBB
+155,0,DTE ENERGY COMPANY,(DTE),"DTE Energy's rating remains unchanged since November, 2019.",Average, Utilitie, United States of America,A
+156,0,DUKE ENERGY CORPORATION,(DUK),"Duke Energy was upgraded in August, 2020.",Average, Utilitie, United States of America,A
+157,0,DUKE REALTY CORPORATION,(DRE),"Duke Realty's rating remains unchanged since May, 2017.",Average, Real Estate Management & Service, United States of America,BBB
+158,0,"DUPONT DE NEMOURS, INC.",(DD),"DuPont's rating remains unchanged since November, 2018.",Average, Specialty Chemical, United States of America,A
+159,0,MICROCHIP TECHNOLOGY INCORPORATED,(MCHP),"Microchip Technology's rating remains unchanged since October, 2019.",Average, Semiconductors & Semiconductor Equipme, United States of America,BB
+160,0,EASTMAN CHEMICAL COMPANY,(EMN),"Eastman's rating remains unchanged since July, 2017.",Average, Diversified Chemical, United States of America,BB
+161,0,EATON CORPORATION PUBLIC LIMITED COMPANY,(ETN),"Eaton's rating remains unchanged since April, 2017.",Average, Electrical Equipme, Ireland,BBB
+162,0,EBAY INC.,(EBAY),"eBay was upgraded in December, 2020.",Average, Retail - Consumer Discretiona, United States of America,A
+163,0,ECOLAB INC.,(ECL),"Ecolab's rating remains unchanged since April, 2018.",Leader, Specialty Chemical, United States of America,AAA
+164,0,EDISON INTERNATIONAL,(EIX),"Edison's rating remains unchanged since December, 2018.",Average, Utilitie, United States of America,BBB
+165,0,EDWARDS LIFESCIENCES CORPORATION,(EW),"Edwards Lifesciences's rating remains unchanged since December, 2018.",Leader, Health Care Equipment & Supplie, United States of America,AA
+166,0,ELECTRONIC ARTS INC.,(EA),"EA's rating remains unchanged since November, 2019.",Average, Media & Entertainme, United States of America,A
+167,0,EMERSON ELECTRIC CO.,(EMR),"Emerson's rating remains unchanged since March, 2020.",Average, Electrical Equipme, United States of America,BBB
+168,0,"ENPHASE ENERGY, INC.",(ENPH),"Enphase Energy's rating remains unchanged since June, 2020.",Average, Semiconductors & Semiconductor Equipme, United States of America,BB
+169,0,ENTERGY CORPORATION,(ETR),"Entergy's rating remains unchanged since November, 2017.",Average, Utilitie, United States of America,A
+170,0,"EOG RESOURCES, INC.",(EOG),"EOG's rating remains unchanged since December, 2019.",Average, Oil & Gas Exploration & Productio, United States of America,BB
+171,0,EQUIFAX INC.,(EFX),"Equifax was upgraded in March, 2021.",Average, Professional Service, United States of America,BBB
+172,0,"EQUINIX, INC.",(EQIX),"Equinix's rating remains unchanged since April, 2017.",Leader, Software & Service, United States of America,AA
+173,0,EQUITY RESIDENTIAL,(EQR),"Equity Residential's rating remains unchanged since February, 2020.",Average, Real Estate Management & Service, United States of America,A
+174,0,"ESSEX PROPERTY TRUST, INC.",(ESS),"Essex Property's rating remains unchanged since May, 2017.",Average, Real Estate Management & Service, United States of America,BB
+175,0,THE ESTEE LAUDER COMPANIES INC.,(EL),"ELC's rating remains unchanged since January, 2020.",Average, Household & Personal Produc, United States of America,BBB
+176,0,"ETSY, INC.",(ETSY),"Etsy's rating remains unchanged since November, 2017.",Average, Retail - Consumer Discretiona, United States of America,BBB
+177,0,"Evergy, Inc.",(EVRG),"Evergy's rating remains unchanged since November, 2019.",Average, Utilitie, United States of America,BB
+178,0,Eversource Energy,(ES),"Eversource Energy's rating remains unchanged since December, 2017.",Leader, Utilitie, United States of America,AA
+179,0,"EVEREST RE GROUP, LTD.",(RE),"Everest Re was upgraded in March, 2020.",Laggard, Multi-Line Insurance & Brokerage, Bermuda,B
+180,0,EXELON CORPORATION,(EXC),"Exelon was downgraded in December, 2020.",Average, Utilitie, United States of America,A
+181,0,"EXPEDIA GROUP, INC.",(EXPE),"Expedia was downgraded in January, 2021.",Laggard, Retail - Consumer Discretiona, United States of America,B
+182,0,"EXPEDITORS INTERNATIONAL OF WASHINGTON, INC",(EXPD),"Expeditors's rating remains unchanged since September, 2018.",Leader, Air Freight & Logistic, United States of America,AAA
+183,0,EXTRA SPACE STORAGE INC.,(EXR),"Extra Space Storage was downgraded in June, 2020.",Laggard, Real Estate Management & Service, United States of America,B
+184,0,EXXON MOBIL CORPORATION,(XOM),"XOM's rating remains unchanged since July, 2017.",Average, Integrated Oil & Ga, United States of America,BBB
+185,0,"F5 NETWORKS, INC.",(FFIV),"F5 Networks was upgraded in January, 2021.",Average," Technology Hardware, Storage & Peripheral", United States of America,A
+186,0,"FACEBOOK, INC.",(FB),"Facebook was downgraded in November, 2020.",Laggard, Interactive Media & Service, United States of America,B
+187,0,FASTENAL COMPANY,(FAST),"Fastenal was upgraded in April, 2020.",Leader, Trading Companies & Distributo, United States of America,AA
+188,0,"DIGITAL REALTY TRUST, INC.",(DLR),"Digital Realty's rating remains unchanged since September, 2019.",Average, Software & Service, United States of America,BB
+189,0,FEDEX CORPORATION,(FDX),"FedEx was upgraded in October, 2020.",Average, Air Freight & Logistic, United States of America,BBB
+190,0,"FIDELITY NATIONAL INFORMATION SERVICES, INC.",(FIS),"Fidelity NIS was upgraded in September, 2020.",Average, Software & Service, United States of America,BBB
+191,0,FIFTH THIRD BANCORP,(FITB),"Fifth Third's rating remains unchanged since August, 2020.",Laggard, Bank, United States of America,B
+192,0,FIRSTENERGY CORP.,(FE),"FirstEnergy was downgraded in December, 2020.",Average, Utilitie, United States of America,BB
+193,0,FIRST REPUBLIC BANK,(FRC),"First Republic's rating remains unchanged since July, 2017.",Average, Bank, United States of America,BBB
+194,0,"FISERV, INC.",(FISV),"Fiserv's rating remains unchanged since June, 2019.",Average, Software & Service, United States of America,BBB
+195,0,"FLEETCOR TECHNOLOGIES, INC.",(FLT),"FleetCor's rating remains unchanged since June, 2019.",Laggard, Software & Service, United States of America,B
+196,0,Hanon Systems,(018880),"Hanon Systems was upgraded in June, 2020.",Average, Auto Compone, South Korea,BBB
+197,0,FMC CORPORATION,(FMC),"FMC's rating remains unchanged since February, 2017.",Average, Specialty Chemical, United States of America,BB
+198,0,FORD MOTOR COMPANY,(F),"Ford's rating remains unchanged since July, 2017.",Laggard, Automobile, United States of America,B
+199,0,"FORTINET, INC.",(FTNT),"Fortinet's rating remains unchanged since June, 2019.",Average, Software & Service, United States of America,BBB
+200,0,FORTIVE CORPORATION,(FTV),"Fortive Corporation was upgraded in October, 2020.",Average, Industrial Machine, United States of America,A
+201,0,"FORTUNE BRANDS HOME & SECURITY, INC.",(FBHS),"Fortune Brands was upgraded in December, 2020.",Leader, Building Produc, United States of America,AA
+202,0,FOX CORPORATION,(FOXA),"Fox was upgraded in March, 2021.",Average, Media & Entertainme, United States of America,BB
+203,0,FOX CORPORATION,(FOXA),"Fox was upgraded in March, 2021.",Average, Media & Entertainme, United States of America,BB
+204,0,"FRANKLIN RESOURCES, INC.",(BEN),"Franklin Resources was downgraded in December, 2020.",Average, Asset Management & Custody Bank, United States of America,BBB
+205,0,FREEPORT-MCMORAN INC.,(FCX),"FCX's rating remains unchanged since December, 2019.",Average, Metals and Mining - Non-Precious Metal, United States of America,BB
+206,0,"Grupo Aeroportuario del Pacifico, S.A.B. de C.V.",(GAPB),"GAP was upgraded in December, 2020.",Average, Transportation Infrastructure, Mexic,BB
+207,0,Garmin Ltd.,(GRMN),"Garmin was downgraded in April, 2020.",Average, Household Durable, Switzerland,BBB
+208,0,"GARTNER, INC.",(IT),"Gartner was upgraded in August, 2020.",Average, Software & Service, United States of America,BBB
+209,0,GENERAC HOLDINGS INC.,(GNRC),"Generac was upgraded in March, 2020.",Average, Electrical Equipme, United States of America,A
+210,0,GENERAL DYNAMICS CORPORATION,(GD),"General Dynamics was upgraded in December, 2020.",Average, Aerospace & Defense, United States of America,BBB
+211,0,GENERAL ELECTRIC COMPANY,(GE),"GE was downgraded in December, 2020.",Average, Industrial Conglomerate, United States of America,BB
+212,0,"GENERAL MILLS, INC.",(GIS),"General Mills's rating remains unchanged since December, 2017.",Leader, Food Produc, United States of America,AA
+213,0,GENERAL MOTORS COMPANY,(GM),"General Motors (GM) was upgraded in December, 2020.",Laggard, Automobile, United States of America,B
+214,0,GENUINE PARTS COMPANY,(GPC),"Genuine Parts's rating remains unchanged since March, 2018.",Average, Retail - Consumer Discretiona, United States of America,BBB
+215,0,"GILEAD SCIENCES, INC.",(GILD),"Gilead's rating remains unchanged since October, 2018.",Leader, Biotechnolog, United States of America,AA
+216,0,GLOBE LIFE INC.,(GL),"Globe Life's rating remains unchanged since June, 2019.",Average, Life & Health Insurance, United States of America,BB
+217,0,GLOBAL PAYMENTS INC.,(GPN),"Global Payments was upgraded in April, 2020.",Average, Software & Service, United States of America,BB
+218,0,"THE GOLDMAN SACHS GROUP, INC.",(GS),"Goldman Sachs's rating remains unchanged since June, 2017.",Average, Investment Banking & Brokerage, United States of America,BBB
+219,0,"W. W. GRAINGER, INC.",(GWW),"Grainger was upgraded in December, 2020.",Leader, Trading Companies & Distributo, United States of America,AAA
+220,0,HALLIBURTON COMPANY,(HAL),"Halliburton's rating remains unchanged since January, 2019.",Average, Energy Equipment & Service, United States of America,BBB
+221,0,BCE Inc.,(BCE),"BCE was upgraded in October, 2020.",Average, Telecommunication Service, Canada,BBB
+222,0,"THE HARTFORD FINANCIAL SERVICES GROUP, INC.",(HIG),"Hartford Financial Services was upgraded in March, 2021.",Average, Multi-Line Insurance & Brokerage, United States of America,BBB
+223,0,"Hasbro, Inc.",(HAS),"Hasbro's rating remains unchanged since November, 2017.",Leader, Leisure Produc, United States of America,AA
+224,0,"HCA HEALTHCARE, INC.",(HCA),"HCA was upgraded in June, 2020.",Leader, Health Care Providers & Service, United States of America,AA
+225,0,"HEALTHPEAK PROPERTIES, INC.",(PEAK),"Healthpeak Properties's rating remains unchanged since September, 2019.",Leader, Real Estate Management & Service, United States of America,AA
+226,0,"HENRY SCHEIN, INC.",(HSIC),"Henry Schein was downgraded in December, 2020.",Average, Health Care Providers & Service, United States of America,BBB
+227,0,THE HERSHEY COMPANY,(HSY),"Hershey's rating remains unchanged since December, 2017.",Average, Food Produc, United States of America,BBB
+228,0,HESS CORPORATION,(HES),"Hess's rating remains unchanged since May, 2017.",Leader, Oil & Gas Exploration & Productio, United States of America,AA
+229,0,HEWLETT PACKARD ENTERPRISE COMPANY,(HPE),"HPE's rating remains unchanged since June, 2019.",Leader," Technology Hardware, Storage & Peripheral", United States of America,AA
+230,0,HILTON WORLDWIDE HOLDINGS INC.,(HLT),"Hilton's rating remains unchanged since June, 2019.",Average, Hotels & Travel, United States of America,BBB
+231,0,AMOREPACIFIC CORP.,(090430),"AmorePacific Corp's rating remains unchanged since July, 2017.",Average, Household & Personal Produc, South Korea,A
+232,0,"HOLOGIC, INC.",(HOLX),"Hologic was upgraded in August, 2020.",Leader, Health Care Equipment & Supplie, United States of America,AA
+233,0,"THE HOME DEPOT, INC.",(HD),"Home Depot's rating remains unchanged since July, 2019.",Leader, Retail - Consumer Discretiona, United States of America,AA
+234,0,HONEYWELL INTERNATIONAL INC.,(HON),"Honeywell's rating remains unchanged since August, 2018.",Leader, Industrial Conglomerate, United States of America,AA
+235,0,HORMEL FOODS CORPORATION,(HRL),"Hormel was upgraded in March, 2021.",Leader, Food Produc, United States of America,AA
+236,0,"HOST HOTELS & RESORTS, INC.",(HST),"Host Hotels's rating remains unchanged since September, 2017.",Average, Real Estate Management & Service, United States of America,A
+237,0,HOWMET AEROSPACE INC.,(HWM),"HOWMET AEROSPACE's rating remains unchanged since July, 2018.",Average, Aerospace & Defense, United States of America,BBB
+238,0,HP INC.,(HPQ),"HPQ was upgraded in April, 2020.",Leader," Technology Hardware, Storage & Peripheral", United States of America,AA
+239,0,HUMANA INC.,(HUM),"Humana's rating remains unchanged since March, 2020.",Average, Health Care Providers & Service, United States of America,A
+240,0,HUNTINGTON BANCSHARES INCORPORATED,(HBAN),"Huntington Bancshares was upgraded in December, 2020.",Leader, Bank, United States of America,AA
+241,0,"HUNTINGTON INGALLS INDUSTRIES, INC.",(HII),"Huntington Ingalls's rating remains unchanged since November, 2018.",Average, Aerospace & Defense, United States of America,A
+242,0,IDEX CORPORATION,(IEX),"IDEX Corporation's rating remains unchanged since March, 2019.",Average, Industrial Machine, United States of America,A
+243,0,"IDEXX LABORATORIES, INC.",(IDXX),"Idexx Laboratories's rating remains unchanged since May, 2019.",Leader, Health Care Equipment & Supplie, United States of America,AA
+244,0,IHS MARKIT LTD.,(INFO),"IHS Markit's rating remains unchanged since April, 2019.",Leader, Professional Service, United Kingdom,AA
+245,0,ILLINOIS TOOL WORKS INC.,(ITW),"ITW's rating remains unchanged since February, 2019.",Average, Industrial Machine, United States of America,A
+246,0,"ILLUMINA, INC.",(ILMN),"Illumina was upgraded in June, 2020.",Average, Health Care Equipment & Supplie, United States of America,A
+247,0,INCYTE CORPORATION,(INCY),"Incyte was upgraded in September, 2020.",Average, Biotechnolog, United States of America,BB
+248,0,INGERSOLL RAND INC.,(IR),"Ingersoll Rand was upgraded in July, 2020.",Average, Industrial Machine, United States of America,BBB
+249,0,INTEL CORPORATION,(INTC),"Intel's rating remains unchanged since May, 2019.",Average, Semiconductors & Semiconductor Equipme, United States of America,A
+250,0,"INTERCONTINENTAL EXCHANGE, INC.",(ICE),"ICE's rating remains unchanged since October, 2018.",Average, Diversified Financial, United States of America,BBB
+251,0,INTERNATIONAL BUSINESS MACHINES CORPORATION,(IBM),"IBM's rating remains unchanged since May, 2017.",Leader, Software & Service, United States of America,AA
+252,0,INTERNATIONAL PAPER COMPANY,(IP),"IP was upgraded in October, 2020.",Average, Containers & Packaging, United States of America,A
+253,0,"THE INTERPUBLIC GROUP OF COMPANIES, INC.",(IPG),"IPG was upgraded in March, 2021.",Average, Media & Entertainme, United States of America,A
+254,0,INTERNATIONAL FLAVORS & FRAGRANCES INC.,(IFF),"IFF's rating remains unchanged since April, 2018.",Leader, Specialty Chemical, United States of America,AA
+255,0,INTUIT INC.,(INTU),"Intuit's rating remains unchanged since May, 2018.",Leader, Software & Service, United States of America,AA
+256,0,"INTUITIVE SURGICAL, INC.",(ISRG),"Intuitive was upgraded in March, 2021.",Average, Health Care Equipment & Supplie, United States of America,BBB
+257,0,INVESCO LTD.,(IVZ),"Invesco's rating remains unchanged since February, 2019.",Average, Asset Management & Custody Bank, United States of America,A
+258,0,IPG PHOTONICS CORPORATION,(IPGP),"IPG Photonics's rating remains unchanged since May, 2018.",Laggard," Electronic Equipment, Instruments & Compone", United States of America,B
+259,0,IQVIA HOLDINGS INC,(IQV),"IQVIA was downgraded in March, 2021.",Average, Health Care Equipment & Supplie, United States of America,BB
+260,0,IRON MOUNTAIN INCORPORATED,(IRM),"Iron Mountain was downgraded in August, 2020.",Average, Software & Service, United States of America,A
+261,0,"JACK HENRY & ASSOCIATES, INC.",(JKHY),"Jack Henry's rating remains unchanged since August, 2019.",Average, Software & Service, United States of America,BBB
+262,0,JACOBS ENGINEERING GROUP INC.,(J),"Jacobs's rating remains unchanged since April, 2018.",Average, Professional Service, United States of America,A
+263,0,"J. B. HUNT TRANSPORT SERVICES, INC.",(JBHT),"J.B. Hunt Transport's rating remains unchanged since May, 2019.",Average, Road & Rail Transpo, United States of America,BB
+264,0,THE J. M. SMUCKER COMPANY,(SJM),"Smucker was upgraded in December, 2020.",Average, Food Produc, United States of America,A
+265,0,JOHNSON & JOHNSON,(JNJ),"J&J's rating remains unchanged since July, 2017.",Average, Pharmaceutical, United States of America,BBB
+266,0,JOHNSON CONTROLS INTERNATIONAL PLC,(JCI),"Johnson Controls's rating remains unchanged since March, 2018.",Leader, Building Produc, Ireland,AAA
+267,0,JPMORGAN CHASE & CO.,(JPM),"JPM was upgraded in December, 2020.",Average, Bank, United States of America,BBB
+268,0,"JUNIPER NETWORKS, INC.",(JNPR),"Juniper Networks's rating remains unchanged since August, 2017.",Average," Technology Hardware, Storage & Peripheral", United States of America,BBB
+269,0,KANSAS CITY SOUTHERN,(KSU),"KCS's rating remains unchanged since April, 2019.",Leader, Road & Rail Transpo, United States of America,AA
+270,0,KELLOGG COMPANY,(K),"Kellogg's rating remains unchanged since December, 2017.",Leader, Food Produc, United States of America,AAA
+271,0,KEYCORP,(KEY),"KeyCorp's rating remains unchanged since July, 2017.",Average, Bank, United States of America,A
+272,0,"KEYSIGHT TECHNOLOGIES, INC.",(KEYS),"Keysight's rating remains unchanged since October, 2018.",Leader," Electronic Equipment, Instruments & Compone", United States of America,AA
+273,0,KIMBERLY-CLARK CORPORATION,(KMB),"Kimberly-Clark's rating remains unchanged since September, 2018.",Leader, Household & Personal Produc, United States of America,AA
+274,0,DUKE REALTY CORPORATION,(DRE),"Duke Realty's rating remains unchanged since May, 2017.",Average, Real Estate Management & Service, United States of America,BBB
+275,0,"KINDER MORGAN, INC.",(KMI),"KMI was upgraded in December, 2020.",Average," Oil & Gas Refining, Marketing, Transportation & Storage", United States of America,BBB
+276,0,KLA CORPORATION,(KLAC),"KLA's rating remains unchanged since January, 2018.",Average, Semiconductors & Semiconductor Equipme, United States of America,BB
+277,0,THE KRAFT HEINZ COMPANY,(KHC),"Kraft Heinz's rating remains unchanged since December, 2019.",Average, Food Produc, United States of America,BB
+278,0,THE KROGER CO.,(KR),"Kroger's rating remains unchanged since August, 2018.",Average, Retail - Food & Staple, United States of America,A
+279,0,"CONSTELLATION BRANDS, INC.",(STZ),"Constellation Brands's rating remains unchanged since June, 2017.",Average, Beverage, United States of America,BB
+280,0,"L3HARRIS TECHNOLOGIES, INC.",(LHX),"L3Harris's rating remains unchanged since July, 2019.",Average, Aerospace & Defense, United States of America,A
+281,0,LABORATORY CORPORATION OF AMERICA HOLDINGS,(LH),"LabCorp's rating remains unchanged since May, 2017.",Average, Health Care Providers & Service, United States of America,BBB
+282,0,LAM RESEARCH CORPORATION,(LRCX),"Lam Research's rating remains unchanged since January, 2020.",Leader, Semiconductors & Semiconductor Equipme, United States of America,AA
+283,0,"LAMB WESTON HOLDINGS, INC.",(LW),"Lamb Weston's rating remains unchanged since December, 2017.",Average, Food Produc, United States of America,A
+284,0,LAS VEGAS SANDS CORP.,(LVS),"Las Vegas Sands's rating remains unchanged since February, 2018.",Average, Casinos & Gaming, United States of America,BB
+285,0,"LEIDOS HOLDINGS, INC.",(LDOS),"Leidos Holdings's rating remains unchanged since June, 2019.",Average, Professional Service, United States of America,A
+286,0,"LEIDOS HOLDINGS, INC.",(LDOS),"Leidos Holdings's rating remains unchanged since June, 2019.",Average, Professional Service, United States of America,A
+287,0,LENNAR CORPORATION,(LEN),"Lennar's rating remains unchanged since June, 2018.",Average, Real Estate Development & Diversified Activitie, United States of America,BB
+288,0,ELI LILLY AND COMPANY,(LLY),"Eli Lilly's rating remains unchanged since August, 2018.",Average, Pharmaceutical, United States of America,A
+289,0,LINCOLN NATIONAL CORPORATION,(LNC),"Lincoln's rating remains unchanged since February, 2019.",Average, Life & Health Insurance, United States of America,BBB
+290,0,LINDE PUBLIC LIMITED COMPANY,(LIN),"Linde was upgraded in June, 2020.",Average, Specialty Chemical, United Kingdom,A
+291,0,"LIVE NATION ENTERTAINMENT, INC.",(LYV),"Live Nation's rating remains unchanged since September, 2017.",Average, Media & Entertainme, United States of America,BB
+292,0,LKQ CORPORATION,(LKQ),"LKQ was upgraded in May, 2020.",Average, Retail - Consumer Discretiona, United States of America,A
+293,0,LOCKHEED MARTIN CORPORATION,(LMT),"Lockheed Martin's rating remains unchanged since December, 2017.",Average, Aerospace & Defense, United States of America,A
+294,0,LOEWS CORPORATION,(L),"Loews was upgraded in April, 2020.",Average, Property & Casualty Insurance, United States of America,BBB
+295,0,"LOWE'S COMPANIES, INC.",(LOW),"Lowe's was upgraded in September, 2020.",Leader, Retail - Consumer Discretiona, United States of America,AA
+296,0,"LUMEN TECHNOLOGIES, INC.",(LUMN),"CenturyLink's rating remains unchanged since April, 2019.",Average, Telecommunication Service, United States of America,BB
+297,0,LyondellBasell Industries N.V.,(LYB),"LyondellBasell was upgraded in January, 2021.",Average, Commodity Chemical, United Kingdom,A
+298,0,M&T BANK CORPORATION,(MTB),"M&T Bank's rating remains unchanged since August, 2017.",Average, Bank, United States of America,BBB
+299,0,S-Oil Corporation,(010950),"S-Oil was downgraded in October, 2020.",Average," Oil & Gas Refining, Marketing, Transportation & Storage", South Korea,BB
+300,0,MARATHON PETROLEUM CORPORATION,(MPC),"MPC was upgraded in December, 2020.",Average," Oil & Gas Refining, Marketing, Transportation & Storage", United States of America,BBB
+301,0,MARKETAXESS HOLDINGS INC.,(MKTX),"Marketaxess was upgraded in April, 2020.",Average, Diversified Financial, United States of America,BBB
+302,0,"MARRIOTT INTERNATIONAL, INC.",(MAR),"Marriott's rating remains unchanged since December, 2018.",Average, Hotels & Travel, United States of America,BB
+303,0,"MARSH & MCLENNAN COMPANIES, INC.",(MMC),"Marsh & McLennan's rating remains unchanged since May, 2018.",Leader, Multi-Line Insurance & Brokerage, United States of America,AA
+304,0,"MARTIN MARIETTA MATERIALS, INC.",(MLM),"Martin Marietta was upgraded in September, 2020.",Average, Construction Material, United States of America,BBB
+305,0,MASCO CORPORATION,(MAS),"Masco's rating remains unchanged since March, 2018.",Average, Building Produc, United States of America,A
+306,0,MASTERCARD INCORPORATED.,(MA),"MasterCard's rating remains unchanged since June, 2018.",Average, Software & Service, United States of America,A
+307,0,"MCCORMICK & COMPANY, INCORPORATED",(MKC),"McCormick's rating remains unchanged since November, 2019.",Average, Food Produc, United States of America,A
+308,0,"MAXIM INTEGRATED PRODUCTS, INC.",(MXIM),"Maxim Integrated's rating remains unchanged since February, 2019.",Average, Semiconductors & Semiconductor Equipme, United States of America,A
+309,0,MCDONALD'S CORPORATION,(MCD),"McDonald's's rating remains unchanged since June, 2017.",Average, Restaura, United States of America,BB
+310,0,MCKESSON CORPORATION,(MCK),"McKesson's rating remains unchanged since September, 2019.",Average, Health Care Providers & Service, United States of America,BB
+311,0,MEDTRONIC PUBLIC LIMITED COMPANY,(MDT),"Medtronic was downgraded in January, 2021.",Average, Health Care Equipment & Supplie, Ireland,BB
+312,0,"MERCK & CO., INC.",(MRK),"Merck was downgraded in March, 2021.",Average, Pharmaceutical, United States of America,BBB
+313,0,"METLIFE, INC.",(MET),"MetLife was upgraded in December, 2020.",Average, Life & Health Insurance, United States of America,A
+314,0,METTLER-TOLEDO INTERNATIONAL INC.,(MTD),"Mettler-Toledo's rating remains unchanged since November, 2017.",Leader, Health Care Equipment & Supplie, United States of America,AA
+315,0,MGM RESORTS INTERNATIONAL,(MGM),"MGM Resorts's rating remains unchanged since February, 2018.",Average, Casinos & Gaming, United States of America,BBB
+316,0,MICROCHIP TECHNOLOGY INCORPORATED,(MCHP),"Microchip Technology's rating remains unchanged since October, 2019.",Average, Semiconductors & Semiconductor Equipme, United States of America,BB
+317,0,"MICRON TECHNOLOGY, INC.",(MU),"Micron's rating remains unchanged since February, 2020.",Average, Semiconductors & Semiconductor Equipme, United States of America,BBB
+318,0,MICROSOFT CORPORATION,(MSFT),"Microsoft's rating remains unchanged since June, 2018.",Leader, Software & Service, United States of America,AAA
+319,0,"MID-AMERICA APARTMENT COMMUNITIES, INC.",(MAA),"Mid-America Apartment Communities was downgraded in May, 2020.",Average, Real Estate Management & Service, United States of America,BB
+320,0,"MOHAWK INDUSTRIES, INC.",(MHK),"Mohawk was downgraded in August, 2020.",Average, Household Durable, United States of America,BBB
+321,0,MOLSON COORS BEVERAGE COMPANY,(TAP),"Molson Coors was upgraded in December, 2020.",Leader, Beverage, United States of America,AAA
+322,0,"Mondelez International, Inc.",(MDLZ),"Mondelez's rating remains unchanged since December, 2019.",Average, Food Produc, United States of America,BBB
+323,0,"MONOLITHIC POWER SYSTEMS, INC.",(MPWR),"MPS's rating remains unchanged since December, 2017.",Laggard, Semiconductors & Semiconductor Equipme, United States of America,B
+324,0,MONSTER BEVERAGE CORPORATION,(MNST),"Monster Beverage's rating remains unchanged since June, 2017.",Laggard, Beverage, United States of America,CCC
+325,0,MOODY'S CORPORATION,(MCO),"Moody's's rating remains unchanged since March, 2018.",Average, Diversified Financial, United States of America,A
+326,0,MORGAN STANLEY,(MS),"Morgan Stanley was upgraded in December, 2020.",Leader, Investment Banking & Brokerage, United States of America,AA
+327,0,THE MOSAIC COMPANY,(MOS),"Mosaic's rating remains unchanged since February, 2017.",Average, Specialty Chemical, United States of America,A
+328,0,"MOTOROLA SOLUTIONS, INC.",(MSI),"Motorola was upgraded in October, 2020.",Leader," Technology Hardware, Storage & Peripheral", United States of America,AA
+329,0,BCE Inc.,(BCE),"BCE was upgraded in October, 2020.",Average, Telecommunication Service, Canada,BBB
+330,0,"NASDAQ, INC.",(NDAQ),"NASDAQ was upgraded in December, 2020.",Average, Diversified Financial, United States of America,BBB
+331,0,"NETAPP, INC.",(NTAP),"NetApp was upgraded in October, 2020.",Average," Technology Hardware, Storage & Peripheral", United States of America,BBB
+332,0,"NETFLIX, INC.",(NFLX),"Netflix was upgraded in November, 2020.",Average, Media & Entertainme, United States of America,BB
+333,0,NEWELL BRANDS INC.,(NWL),"Newell Brands was upgraded in July, 2020.",Leader, Household Durable, United States of America,AA
+334,0,NEWMONT CORPORATION,(NEM),"Newmont Goldcorp's rating remains unchanged since April, 2018.",Average, Metals and Mining - Precious Metal, United States of America,A
+335,0,NEWS CORPORATION,(NWSA),"News Corp's rating remains unchanged since March, 2018.",Laggard, Media & Entertainme, United States of America,CCC
+336,0,NEWS CORPORATION,(NWSA),"News Corp's rating remains unchanged since March, 2018.",Laggard, Media & Entertainme, United States of America,CCC
+337,0,"NEXTERA ENERGY, INC.",(NEE),"NextEra's rating remains unchanged since October, 2017.",Leader, Utilitie, United States of America,AAA
+338,0,FUJIFILM Holdings Corporation,(4901),"Fujifilm Holdings was upgraded in March, 2021.",Leader," Technology Hardware, Storage & Peripheral", Japa,AA
+339,0,"NIKE, INC.",(NKE),"Nike's rating remains unchanged since August, 2018.",Average," Textiles, Apparel & Luxury Goo", United States of America,A
+340,0,NISOURCE INC.,(NI),"NiSource was upgraded in June, 2020.",Average, Utilitie, United States of America,A
+341,0,NORFOLK SOUTHERN CORPORATION,(NSC),"Norfolk Southern's rating remains unchanged since April, 2018.",Average, Road & Rail Transpo, United States of America,A
+342,0,NORTHERN TRUST CORPORATION,(NTRS),"Northern Trust's rating remains unchanged since May, 2017.",Leader, Asset Management & Custody Bank, United States of America,AA
+343,0,Northrop Grumman Corporation,(NOC),"Northrop Grumman's rating remains unchanged since December, 2018.",Leader, Aerospace & Defense, United States of America,AA
+344,0,NORTONLIFELOCK INC.,(NLOK),"NortonLifeLock's rating remains unchanged since September, 2019.",Average, Software & Service, United States of America,A
+345,0,DIRECT LINE INSURANCE GROUP PLC,(DLG),"Direct Line Insurance's rating remains unchanged since October, 2019.",Average, Property & Casualty Insurance, United Kingdom,A
+346,0,BCE Inc.,(BCE),"BCE was upgraded in October, 2020.",Average, Telecommunication Service, Canada,BBB
+347,0,"NRG ENERGY, INC.",(NRG),"NRG Energy (NRG)'s rating remains unchanged since December, 2017.",Laggard, Utilitie, United States of America,B
+348,0,NUCOR CORPORATION,(NUE),"Nucor's rating remains unchanged since November, 2017.",Average, Steel, United States of America,BBB
+349,0,NVIDIA CORPORATION,(NVDA),"NVIDIA's rating remains unchanged since January, 2018.",Leader, Semiconductors & Semiconductor Equipme, United States of America,AAA
+350,0,"NVR, Inc.",(NVR),"NVR's rating remains unchanged since June, 2019.",Average, Real Estate Development & Diversified Activitie, United States of America,BBB
+351,0,NXP Semiconductors N.V.,(NXPI),"NXP Semiconductors N.V was upgraded in March, 2021.",Average, Semiconductors & Semiconductor Equipme, Netherlands,BBB
+352,0,"O'Reilly Automotive, Inc.",(ORLY),"O'Reilly's rating remains unchanged since February, 2017.",Laggard, Retail - Consumer Discretiona, United States of America,B
+353,0,OCCIDENTAL PETROLEUM CORPORATION,(OXY),"Oxy's rating remains unchanged since August, 2019.",Average, Integrated Oil & Ga, United States of America,BB
+354,0,"OLD DOMINION FREIGHT LINE, INC.",(ODFL),"Old Dominion's rating remains unchanged since April, 2020.",Average, Road & Rail Transpo, United States of America,BBB
+355,0,OMNICOM GROUP INC.,(OMC),"Omnicom's rating remains unchanged since April, 2018.",Average, Media & Entertainme, United States of America,BBB
+356,0,"ONEOK, INC.",(OKE),"Oneok's rating remains unchanged since April, 2018.",Average," Oil & Gas Refining, Marketing, Transportation & Storage", United States of America,A
+357,0,ORACLE CORPORATION,(ORCL),"Oracle's rating remains unchanged since March, 2019.",Average, Software & Service, United States of America,BBB
+358,0,OTIS WORLDWIDE CORPORATION,(OTIS),"Otis's rating was initiated in April, 2020.",Average, Industrial Machine, United States of America,BBB
+359,0,PACCAR INC,(PCAR),"Paccar's rating remains unchanged since May, 2017.",Average, Construction & Farm Machinery & Heavy Truck, United States of America,BBB
+360,0,PACKAGING CORPORATION OF AMERICA,(PKG),"PCA was upgraded in October, 2020.",Average, Containers & Packaging, United States of America,BBB
+361,0,PARKER-HANNIFIN CORPORATION,(PH),"Parker-Hannifin was downgraded in December, 2020.",Average, Industrial Machine, United States of America,BBB
+362,0,"PAYCHEX, INC.",(PAYX),"Paychex's rating remains unchanged since May, 2017.",Average, Software & Service, United States of America,BBB
+363,0,"PAYCOM SOFTWARE, INC.",(PAYC),"Paycom's rating remains unchanged since October, 2019.",Average, Software & Service, United States of America,A
+364,0,"PAYPAL HOLDINGS, INC.",(PYPL),"PayPal's rating remains unchanged since June, 2018.",Average, Software & Service, United States of America,A
+365,0,Evolution Gaming Group AB (publ),(EVO),"Evolution Gaming's rating remains unchanged since September, 2019.",Leader, Casinos & Gaming, Swed,AA
+366,0,PENTAIR PUBLIC LIMITED COMPANY,(P1NR34),"Pentair was upgraded in February, 2021.",Average, Industrial Machine, United Kingdom,A
+367,0,"UNITED RENTALS, INC.",(URI),"United Rentals's rating remains unchanged since June, 2018.",Average, Trading Companies & Distributo, United States of America,BBB
+368,0,"Pepsico, Inc.",(PEP),"PepsiCo's rating remains unchanged since July, 2018.",Leader, Beverage, United States of America,AA
+369,0,"PERKINELMER, INC.",(PKI),"PerkinElmer's rating remains unchanged since September, 2018.",Average, Health Care Equipment & Supplie, United States of America,BBB
+370,0,PFIZER INC.,(PFE),"Pfizer's rating remains unchanged since April, 2018.",Laggard, Pharmaceutical, United States of America,B
+371,0,PFIZER INC.,(PFE),"Pfizer's rating remains unchanged since April, 2018.",Laggard, Pharmaceutical, United States of America,B
+372,0,Philip Morris International Inc.,(PM),"PMI's rating remains unchanged since November, 2018.",Average, Tobacco, United States of America,BBB
+373,0,PHILLIPS 66,(PSX),"Phillips 66's rating remains unchanged since March, 2018.",Average," Oil & Gas Refining, Marketing, Transportation & Storage", United States of America,BBB
+374,0,PINNACLE WEST CAPITAL CORPORATION,(PNW),"Pinnacle West Capital (PNW)'s rating remains unchanged since October, 2017.",Average, Utilitie, United States of America,A
+375,0,PIONEER NATURAL RESOURCES COMPANY,(PXD),"Pioneer's rating remains unchanged since May, 2017.",Average, Oil & Gas Exploration & Productio, United States of America,BB
+376,0,POOL CORPORATION,(POOL),"Pool Corp was upgraded in June, 2020.",Leader, Retail - Consumer Discretiona, United States of America,AA
+377,0,POOL CORPORATION,(POOL),"Pool Corp was upgraded in June, 2020.",Leader, Retail - Consumer Discretiona, United States of America,AA
+378,0,"PPG INDUSTRIES, INC.",(PPG),"PPG was upgraded in May, 2020.",Leader, Specialty Chemical, United States of America,AA
+379,0,PPL CORPORATION,(PPL),"PPL's rating remains unchanged since October, 2018.",Average, Utilitie, United States of America,BBB
+380,0,"PRINCIPAL FINANCIAL GROUP, INC.",(PFG),"Principal Financial's rating remains unchanged since May, 2017.",Average, Life & Health Insurance, United States of America,BBB
+381,0,THE PROCTER & GAMBLE COMPANY,(PG),"P&G was downgraded in November, 2020.",Average, Household & Personal Produc, United States of America,A
+382,0,THE PROGRESSIVE CORPORATION,(PGR),"Progressive's rating remains unchanged since May, 2017.",Average, Property & Casualty Insurance, United States of America,BBB
+383,0,"PROLOGIS, INC.",(PLD),"Prologis's rating remains unchanged since August, 2017.",Leader, Real Estate Management & Service, United States of America,AA
+384,0,"PRUDENTIAL FINANCIAL, INC.",(PRU),"Prudential Financial's rating remains unchanged since June, 2018.",Average, Life & Health Insurance, United States of America,A
+385,0,PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED,(PEG),"PSEG's rating remains unchanged since March, 2020.",Leader, Utilitie, United States of America,AA
+386,0,PUBLIC STORAGE,(PSA),"Public Storage's rating remains unchanged since May, 2017.",Laggard, Real Estate Management & Service, United States of America,B
+387,0,"PULTEGROUP, INC.",(PHM),"PulteGroup was upgraded in December, 2020.",Average, Real Estate Development & Diversified Activitie, United States of America,BBB
+388,0,AMOREPACIFIC CORP.,(090430),"AmorePacific Corp's rating remains unchanged since July, 2017.",Average, Household & Personal Produc, South Korea,A
+389,0,"QORVO, INC.",(QRVO),"Qorvo was upgraded in December, 2020.",Average, Semiconductors & Semiconductor Equipme, United States of America,BBB
+390,0,QUANTA COMPUTER INC.,(2382),"Quanta Computer's rating remains unchanged since August, 2017.",Average," Technology Hardware, Storage & Peripheral", Taiwa,BBB
+391,0,QUALCOMM INCORPORATED,(QCOM),"Qualcomm was upgraded in March, 2021.",Average, Semiconductors & Semiconductor Equipme, United States of America,BB
+392,0,QUEST DIAGNOSTICS INCORPORATED,(DGX),"Quest Diagnostics's rating remains unchanged since June, 2018.",Leader, Health Care Providers & Service, United States of America,AA
+393,0,IDEX CORPORATION,(IEX),"IDEX Corporation's rating remains unchanged since March, 2019.",Average, Industrial Machine, United States of America,A
+394,0,"RAYMOND JAMES FINANCIAL, INC.",(RJF),"Raymond James was upgraded in March, 2021.",Average, Investment Banking & Brokerage, United States of America,BBB
+395,0,RAYTHEON TECHNOLOGIES CORPORATION,(RTX),"Raytheon Technologies's rating remains unchanged since December, 2017.",Average, Aerospace & Defense, United States of America,A
+396,0,REALTY INCOME CORPORATION,(O),"Realty Income's rating remains unchanged since June, 2019.",Average, Real Estate Management & Service, United States of America,BB
+397,0,REGENCY CENTERS CORPORATION,(REG),"Regency's rating remains unchanged since June, 2019.",Average, Real Estate Management & Service, United States of America,A
+398,0,"REGENERON PHARMACEUTICALS, INC.",(REGN),"Regeneron's rating remains unchanged since March, 2020.",Average, Biotechnolog, United States of America,BBB
+399,0,REGIONS FINANCIAL CORPORATION,(RF),"Regions was upgraded in December, 2020.",Leader, Bank, United States of America,AA
+400,0,"REPUBLIC SERVICES, INC.",(RSG),"Republic Services was upgraded in August, 2020.",Average, Commercial Services & Supplie, United States of America,BBB
+401,0,RESMED INC.,(RMD),"ResMed's rating remains unchanged since March, 2019.",Leader, Health Care Equipment & Supplie, United States of America,AA
+402,0,ROBERT HALF INTERNATIONAL INC.,(RHI),"Robert Half's rating remains unchanged since August, 2019.",Leader, Professional Service, United States of America,AA
+403,0,"ROCKWELL AUTOMATION, INC.",(ROK),"Rockwell Automation's rating remains unchanged since April, 2017.",Average, Electrical Equipme, United States of America,A
+404,0,"ROLLINS, INC.",(ROL),"Rollins was upgraded in November, 2020.",Average, Commercial Services & Supplie, United States of America,BB
+405,0,"ROPER TECHNOLOGIES, INC.",(ROP),"Roper Technologies's rating remains unchanged since November, 2019.",Average, Industrial Conglomerate, United States of America,A
+406,0,"ROSS STORES, INC.",(ROST),"Ross Stores's rating remains unchanged since April, 2017.",Average, Retail - Consumer Discretiona, United States of America,BB
+407,0,ROYAL CARIBBEAN CRUISES LTD.,(RCL),"RCL's rating remains unchanged since July, 2020.",Average, Hotels & Travel, United States of America,BB
+408,0,S&P GLOBAL INC.,(SPGI),"S&P Global's rating remains unchanged since July, 2019.",Average, Diversified Financial, United States of America,A
+409,0,"SALESFORCE.COM, INC.",(CRM),"Salesforce was downgraded in November, 2020.",Leader, Software & Service, United States of America,AA
+410,0,SBA Communications Corporation,(SBAC),"SBAC's rating remains unchanged since May, 2019.",Average, Telecommunication Service, United States of America,BBB
+411,0,Schlumberger N.V.,(SLB),"Schlumberger was upgraded in December, 2020.",Average, Energy Equipment & Service, United States of America,A
+412,0,SEAGATE TECHNOLOGY PUBLIC LIMITED COMPANY,(STX),"Seagate was upgraded in August, 2020.",Average," Technology Hardware, Storage & Peripheral", Ireland,A
+413,0,SEALED AIR CORPORATION,(SEE),"Sealed Air's rating remains unchanged since July, 2017.",Average, Containers & Packaging, United States of America,BBB
+414,0,SEMPRA ENERGY,(SRE),"Sempra Energy's rating remains unchanged since November, 2019.",Average, Utilitie, United States of America,A
+415,0,"SERVICENOW, INC.",(NOW),"ServiceNow's rating remains unchanged since May, 2019.",Average, Software & Service, United States of America,A
+416,0,THE SHERWIN-WILLIAMS COMPANY,(SHW),"Sherwin-Williams's rating remains unchanged since June, 2017.",Average, Specialty Chemical, United States of America,BBB
+417,0,"SIMON PROPERTY GROUP, INC.",(SPG),"Simon was downgraded in April, 2020.",Average, Real Estate Management & Service, United States of America,BB
+418,0,"SKYWORKS SOLUTIONS, INC.",(SWKS),"Skyworks Solutions's rating remains unchanged since January, 2018.",Average, Semiconductors & Semiconductor Equipme, United States of America,A
+419,0,SNAP-ON INCORPORATED,(SNA),"Snap-On's rating remains unchanged since January, 2017.",Average, Industrial Machine, United States of America,A
+420,0,THE SOUTHERN COMPANY,(SO),"The Southern Company's rating remains unchanged since December, 2018.",Leader, Utilitie, United States of America,AA
+421,0,SOUTHWEST AIRLINES CO.,(LUV),"Southwest's rating remains unchanged since November, 2019.",Average, Airline, United States of America,BB
+422,0,"STANLEY BLACK & DECKER, INC.",(SWK),"SBD's rating remains unchanged since May, 2017.",Average, Industrial Machine, United States of America,BBB
+423,0,STARBUCKS CORPORATION,(SBUX),"Starbucks's rating remains unchanged since June, 2018.",Average, Restaura, United States of America,BBB
+424,0,STATE STREET CORPORATION,(STT),"State Street's rating remains unchanged since October, 2019.",Leader, Asset Management & Custody Bank, United States of America,AA
+425,0,STERIS plc,(STE),"Steris's rating remains unchanged since February, 2019.",Average, Health Care Equipment & Supplie, Ireland,A
+426,0,STRYKER CORPORATION,(SYK),"Stryker's rating remains unchanged since December, 2017.",Laggard, Health Care Equipment & Supplie, United States of America,B
+427,0,SVB FINANCIAL GROUP,(SIVB),"SVB's rating remains unchanged since May, 2017.",Average, Bank, United States of America,A
+428,0,SYNCHRONY FINANCIAL,(SYF),"Synchrony Financial's rating remains unchanged since October, 2019.",Average, Consumer Finance, United States of America,BB
+429,0,"SYNOPSYS, INC.",(SNPS),"Synopsys's rating remains unchanged since May, 2017.",Average, Software & Service, United States of America,BB
+430,0,SYSCO CORPORATION,(SYY),"Sysco's rating remains unchanged since September, 2018.",Average, Retail - Food & Staple, United States of America,BBB
+431,0,"T-MOBILE US, INC.",(TMUS),"T-Mobile's rating remains unchanged since July, 2019.",Average, Telecommunication Service, United States of America,BB
+432,0,"T. ROWE PRICE GROUP, INC.",(TROW),"T. Rowe's rating remains unchanged since June, 2019.",Leader, Asset Management & Custody Bank, United States of America,AA
+433,0,"TAKE-TWO INTERACTIVE SOFTWARE, INC.",(TTWO),"Take-Two's rating remains unchanged since November, 2017.",Average, Media & Entertainme, United States of America,BBB
+434,0,BCE Inc.,(BCE),"BCE was upgraded in October, 2020.",Average, Telecommunication Service, Canada,BBB
+435,0,TARGET CORPORATION,(TGT),"Target was upgraded in February, 2021.",Leader, Retail - Consumer Discretiona, United States of America,AA
+436,0,TE Connectivity Ltd.,(TEL),"TE Connectivity's rating remains unchanged since February, 2020.",Average," Electronic Equipment, Instruments & Compone", Switzerland,A
+437,0,TELEDYNE TECHNOLOGIES INCORPORATED,(TDY),"Teledyne was upgraded in April, 2020.",Average, Aerospace & Defense, United States of America,A
+438,0,TELEFLEX INCORPORATED,(TFX),"Teleflex was upgraded in December, 2020.",Average, Health Care Equipment & Supplie, United States of America,BBB
+439,0,"TERADYNE, INC.",(TER),"Teradyne's rating remains unchanged since December, 2018.",Average, Semiconductors & Semiconductor Equipme, United States of America,BB
+440,0,"TESLA, INC.",(TSLA),"Tesla's rating remains unchanged since April, 2019.",Average, Automobile, United States of America,A
+441,0,TEXAS INSTRUMENTS INCORPORATED,(TXN),"TI was upgraded in February, 2021.",Leader, Semiconductors & Semiconductor Equipme, United States of America,AAA
+442,0,TEXTRON INC.,(TXT),"Textron was upgraded in May, 2020.",Average, Aerospace & Defense, United States of America,BBB
+443,0,THERMO FISHER SCIENTIFIC INC.,(TMO),"Thermo Fisher was upgraded in June, 2020.",Average, Health Care Equipment & Supplie, United States of America,BBB
+444,0,"THE TJX COMPANIES, INC.",(TJX),"TJX's rating remains unchanged since March, 2018.",Average, Retail - Consumer Discretiona, United States of America,BBB
+445,0,TRACTOR SUPPLY COMPANY,(TSCO),"Tractor Supply's rating remains unchanged since February, 2017.",Average, Retail - Consumer Discretiona, United States of America,A
+446,0,TRANE TECHNOLOGIES PLC,(2IS),"Trane Technologies's rating remains unchanged since June, 2020.",Leader, Building Produc, Ireland,AAA
+447,0,TRANSDIGM GROUP INCORPORATED,(TDG),"TransDigm's rating remains unchanged since December, 2018.",Average, Aerospace & Defense, United States of America,BB
+448,0,"The Travelers Companies, Inc.",(TRV),"The Travelers Companies's rating remains unchanged since May, 2017.",Average, Property & Casualty Insurance, United States of America,A
+449,0,TRIMBLE INC.,(TRMB),"Trimble's rating remains unchanged since May, 2018.",Leader," Electronic Equipment, Instruments & Compone", United States of America,AA
+450,0,Truist Financial Corporation,(TFC),"Truist Financial was upgraded in January, 2021.",Average, Bank, United States of America,A
+451,0,"TWITTER, INC.",(TWTR),"Twitter's rating remains unchanged since June, 2019.",Average, Interactive Media & Service, United States of America,BB
+452,0,"TYLER TECHNOLOGIES, INC.",(TYL),"Tyler was upgraded in June, 2020.",Average, Software & Service, United States of America,BBB
+453,0,"TYSON FOODS, INC.",(TSN),"Tyson was upgraded in December, 2020.",Average, Food Produc, United States of America,BBB
+454,0,"UDR, INC.",(UDR),"UDR was downgraded in March, 2021.",Average, Real Estate Management & Service, United States of America,BB
+455,0,"ULTA BEAUTY, INC.",(ULTA),"Ulta Beauty's rating remains unchanged since February, 2017.",Average, Retail - Consumer Discretiona, United States of America,BB
+456,0,U.S. BANCORP,(USB),"US Bancorp's rating remains unchanged since July, 2018.",Average, Bank, United States of America,BB
+457,0,A Living Smart City Services Co Ltd,(3319),"A-Living was downgraded in August, 2020.",Average, Commercial Services & Supplie, China,BBB
+458,0,"SS&C TECHNOLOGIES HOLDINGS, INC.",(SSNC),"SS&C was downgraded in May, 2020.",Laggard, Software & Service, United States of America,B
+459,0,UNION PACIFIC CORPORATION,(UNP),"UPC's rating remains unchanged since April, 2017.",Average, Road & Rail Transpo, United States of America,BBB
+460,0,SINGAPORE AIRLINES LIMITED,(C6L),"Singapore Airlines's rating remains unchanged since November, 2019.",Average, Airline, Singap,A
+461,0,UNITEDHEALTH GROUP INCORPORATED,(UNH),"UnitedHealth's rating remains unchanged since June, 2018.",Average, Health Care Providers & Service, United States of America,BB
+462,0,"UNITED PARCEL SERVICE, INC.",(UPS),"UPS's rating remains unchanged since May, 2020.",Average, Air Freight & Logistic, United States of America,BBB
+463,0,"UNITED RENTALS, INC.",(URI),"United Rentals's rating remains unchanged since June, 2018.",Average, Trading Companies & Distributo, United States of America,BBB
+464,0,"UNIVERSAL HEALTH SERVICES, INC.",(UHS),"UHS's rating remains unchanged since May, 2017.",Laggard, Health Care Providers & Service, United States of America,CCC
+465,0,AMOREPACIFIC Group,(002790),"Amore Group was upgraded in July, 2020.",Leader, Household & Personal Produc, South Korea,AA
+466,0,VALERO ENERGY CORPORATION,(VLO),"Valero's rating remains unchanged since February, 2017.",Average," Oil & Gas Refining, Marketing, Transportation & Storage", United States of America,BBB
+467,0,"VARIAN MEDICAL SYSTEMS, INC.",(VAR),"Varian's rating remains unchanged since November, 2017.",Average, Health Care Equipment & Supplie, United States of America,BBB
+468,0,"VENTAS, INC.",(VTR),"Ventas's rating remains unchanged since July, 2018.",Average, Real Estate Management & Service, United States of America,BBB
+469,0,"VERISIGN, INC.",(VRSN),"Verisign's rating remains unchanged since June, 2019.",Average, Software & Service, United States of America,BBB
+470,0,"VERISK ANALYTICS, INC.",(VRSK),"Verisk's rating remains unchanged since October, 2019.",Average, Professional Service, United States of America,BBB
+471,0,VERIZON COMMUNICATIONS INC.,(VZ),"Verizon's rating remains unchanged since February, 2020.",Average, Telecommunication Service, United States of America,BBB
+472,0,VERTEX PHARMACEUTICALS INCORPORATED,(VRTX),"Vertex's rating remains unchanged since October, 2017.",Leader, Biotechnolog, United States of America,AA
+473,0,V.F. CORPORATION,(VFC),"VF's rating remains unchanged since August, 2017.",Leader," Textiles, Apparel & Luxury Goo", United States of America,AA
+474,0,VIACOMCBS INC.,(VIAC),"ViacomCBS was upgraded in March, 2021.",Average, Media & Entertainme, United States of America,BBB
+475,0,VIATRIS INC.,(VTRS),"Mylan N.V. was upgraded in September, 2020.",Average, Pharmaceutical, United States of America,BB
+476,0,VISA INC.,(V),"VISA's rating remains unchanged since December, 2018.",Average, Software & Service, United States of America,A
+477,0,VORNADO REALTY TRUST,(VNO),"Vornado was downgraded in August, 2020.",Laggard, Real Estate Management & Service, United States of America,B
+478,0,VULCAN MATERIALS COMPANY,(VMC),"Vulcan Materials's rating remains unchanged since May, 2017.",Average, Construction Material, United States of America,BB
+479,0,W. R. BERKLEY CORPORATION,(WRB),"W. R. Berkley was upgraded in August, 2020.",Average, Property & Casualty Insurance, United States of America,BB
+480,0,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORPORATION,(WAB),"Wabtec's rating remains unchanged since June, 2018.",Average, Construction & Farm Machinery & Heavy Truck, United States of America,BB
+481,0,WALMART INC.,(WMT),"Walmart was downgraded in December, 2020.",Average, Retail - Food & Staple, United States of America,BB
+482,0,"WALGREENS BOOTS ALLIANCE, INC.",(WBA),"WBA's rating remains unchanged since November, 2019.",Average, Retail - Food & Staple, United States of America,BBB
+483,0,THE WALT DISNEY COMPANY,(DIS),"Disney was upgraded in March, 2021.",Average, Media & Entertainme, United States of America,A
+484,0,"WASTE MANAGEMENT, INC.",(WM),"Waste Management's rating remains unchanged since March, 2019.",Average, Commercial Services & Supplie, United States of America,BBB
+485,0,WATERS CORPORATION,(WAT),"Waters's rating remains unchanged since December, 2018.",Leader, Health Care Equipment & Supplie, United States of America,AA
+486,0,"WEC ENERGY GROUP, INC.",(WEC),"WEC Energy (WEC)'s rating remains unchanged since November, 2017.",Average, Utilitie, United States of America,A
+487,0,WELLS FARGO & COMPANY,(WFC),"Wells Fargo was upgraded in December, 2020.",Average, Bank, United States of America,BB
+488,0,WELLTOWER INC,(WELL),"Welltower's rating remains unchanged since September, 2019.",Average, Real Estate Management & Service, United States of America,A
+489,0,"WEST PHARMACEUTICAL SERVICES, INC.",(WST),"West Pharmaceutical was upgraded in September, 2020.",Leader, Health Care Equipment & Supplie, United States of America,AAA
+490,0,WESTERN DIGITAL CORPORATION,(WDC),"Western Digital was upgraded in February, 2021.",Average," Technology Hardware, Storage & Peripheral", United States of America,BBB
+491,0,THE WESTERN UNION COMPANY,(WU),"Western Union's rating remains unchanged since May, 2017.",Average, Software & Service, United States of America,A
+492,0,WESTROCK COMPANY,(WRK),"Westrock was upgraded in March, 2021.",Average, Containers & Packaging, United States of America,BBB
+493,0,WEYERHAEUSER COMPANY,(WY),"Weyerhaeuser was upgraded in February, 2021.",Leader, Paper & Forest Produc, United States of America,AA
+494,0,WHIRLPOOL CORPORATION,(WHR),"Whirlpool's rating remains unchanged since June, 2019.",Average, Household Durable, United States of America,BB
+495,0,"THE WILLIAMS COMPANIES, INC.",(WMB),"Williams's rating remains unchanged since April, 2018.",Average," Oil & Gas Refining, Marketing, Transportation & Storage", United States of America,BB
+496,0,Willis Towers Watson Public Limited Company,(WLTW),"Willis Towers Watson was downgraded in December, 2020.",Average, Multi-Line Insurance & Brokerage, United Kingdom,BBB
+497,0,"WYNN RESORTS, LIMITED",(WYNN),"Wynn Resorts was upgraded in January, 2021.",Average, Casinos & Gaming, United States of America,BB
+498,0,Xcel Energy Inc.,(XEL),"Xcel Energy's rating remains unchanged since October, 2017.",Leader, Utilitie, United States of America,AA
+499,0,"XILINX, INC.",(XLNX),"Xilinx's rating remains unchanged since February, 2018.",Average, Semiconductors & Semiconductor Equipme, United States of America,BBB
+500,0,XYLEM INC.,(XYL),"XYLEM's rating remains unchanged since February, 2019.",Leader, Industrial Machine, United States of America,AAA
+501,0,"YUM! Brands, Inc.",(YUM),"Yum! Brands's rating remains unchanged since June, 2019.",Average, Restaura, United States of America,BB
+502,0,ZEBRA TECHNOLOGIES CORPORATION,(ZBRA),"Zebra Technologies was upgraded in May, 2020.",Leader," Electronic Equipment, Instruments & Compone", United States of America,AA
+503,0,"ZIMMER BIOMET HOLDINGS, INC.",(ZBH),"Zimmer Biomet was upgraded in May, 2020.",Laggard, Health Care Equipment & Supplie, United States of America,B
+504,0,U.S. BANCORP,(USB),"US Bancorp's rating remains unchanged since July, 2018.",Average, Bank, United States of America,BB
